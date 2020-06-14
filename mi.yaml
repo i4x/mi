@@ -6,15 +6,16 @@
   - gMRiEKBchJGOKExth2VKP04D
   - vN1M5DNJ7qjYxusgYAESONwH
   - oz_RKmVpeYBSEpaDtHjPWU0M
+  - nVcghDaTjLhG3owfHlwoqEI8
   - Mw439-r5jIlZBwrSNdR_QU5Z
   - z91aF5ey7oYi6-UAomB51wYk
   - UglmYLK589pnp2gJq8Rshlde
   content: 自分と皆さんの幸福を一番影響する変数
   created: 1592038391140
   id: root
-  modified: 1592127786687
-  note: 生活利用者マニュアルを書こう。 [当ページのバックアップ](https://github.com/i4x/mi/blob/master/mi.yaml)  僕の
-    **[自分史](https://photos.app.goo.gl/7d3i1sJEMwnM64C66)** をお気軽にご覧ください。
+  modified: 1592153678968
+  note: "意図的な人生の最適化：生活利用者マニュアルを書こう。\n 当ページは **[バックアップ](https://github.com/i4x/mi/blob/master/mi.yaml)**\
+    \  があります。 僕の **[自分史](https://photos.app.goo.gl/7d3i1sJEMwnM64C66)** をお気軽にご覧できます。"
 - children:
   - duOpeIOeCF1u-ZqSOhvZUgW0
   collapsed: true
@@ -400,10 +401,10 @@
   id: nKEIsfj9Y5S9U5P7UeMBx0QQ
   modified: 1592046428016
   note: ''
-- content: 皆のこの５つの変数集合を最適化すれば、幸せになると思いますから、下記のパターンを自分の人生にも応用できます。（各行を展開することができます）
+- content: 下記の５つの変数集合を最適化すれば、幸せに成れると思いますから、下記のパターンを自分の人生にも応用できます。（各行を展開することができます）
   created: 1592097843837
   id: bIsjo99PbUlzU_BT5DSdaLkV
-  modified: 1592124846673
+  modified: 1592153727034
   note: ''
 - content: 'Sy. : **行動**： 一緒に研究に招待する ( invite to research together)'
   created: 1592098087552
@@ -735,10 +736,10 @@
   id: oz_RKmVpeYBSEpaDtHjPWU0M
   modified: 1592129544690
   note: ''
-- content: 毎日
+- content: '**日記**'
   created: 1592129075112
   id: Mw439-r5jIlZBwrSNdR_QU5Z
-  modified: 1592129083136
+  modified: 1592153757152
   note: ''
 - children:
   - I5YUZTek_VXMfuFW55n88FY3
@@ -768,4 +769,9 @@
   created: 1592129322549
   id: 0ni23vOkQX7VhgLKMWTXrPDC
   modified: 1592129514705
+  note: ''
+- content: ''
+  created: 1592153762230
+  id: nVcghDaTjLhG3owfHlwoqEI8
+  modified: 1592153763002
   note: ''
