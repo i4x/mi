@@ -8,12 +8,14 @@
   - oz_RKmVpeYBSEpaDtHjPWU0M
   - nVcghDaTjLhG3owfHlwoqEI8
   - Mw439-r5jIlZBwrSNdR_QU5Z
+  - EZXAWXYBZu0O9cEz2v2wM4Vy
+  - NoLrpgP7WM_v-CAecpsFaLIL
   - z91aF5ey7oYi6-UAomB51wYk
   - UglmYLK589pnp2gJq8Rshlde
-  content: ⇠自分と皆さんの幸福を一番影響する変数
+  content: ◯ 自分と皆さんの幸福を一番影響する変数
   created: 1592038391140
   id: root
-  modified: 1592157580398
+  modified: 1592158023560
   note: "意図的な人生の最適化：生活利用者マニュアルを書こう。\n 当ページは **[バックアップ](https://github.com/i4x/mi/blob/master/mi.yaml)**\
     \  があります。 僕の **[自分史](https://photos.app.goo.gl/7d3i1sJEMwnM64C66)** をお気軽にご覧できます。"
 - children:
@@ -76,7 +78,6 @@
   note: ''
 - children:
   - O56oXVQmV1nY8L1oWyUYnBe3
-  collapsed: true
   content: '**Y3. なにを？**'
   created: 1592038612206
   id: ClniEFmQtZ1URkunVpLWEbKf
@@ -204,17 +205,17 @@
   note: ''
 - children:
   - XroknWXlcWc9Rftk_1kQ_Mgm
-  content: プロジェクト名/会社名：**Metadrive** (based on idea 1)
+  content: '**"i0"** プロジェクト名/会社名：**Metadrive** (based on idea 1)'
   created: 1592043174995
   id: 7wH1oRZzmmpvo4J8hMMP1CZG
-  modified: 1592043337579
+  modified: 1592158297843
   note: ''
 - children:
   - 8YG6a2Kz3zv2GBEr7oHZ52V-
-  content: プロジェクト名/会社名：**Infinity** (based on idea 2)
+  content: '**"0oo"** プロジェクト名/会社名：**Infinity** (based on idea 2)'
   created: 1592043187462
   id: Zv-cpheJU1spvSxpd8fciRNM
-  modified: 1592043331680
+  modified: 1592158297843
   note: ''
 - children:
   - gW3mPEoGhFzG7iIDNRknxafs
@@ -626,10 +627,10 @@
   id: O56oXVQmV1nY8L1oWyUYnBe3
   modified: 1592101621570
   note: ''
-- content: それで、ほかの色々な http://0oo.li  で説明されているアイディアに基づいたプロジェクトをしたいですが、それをするには一人の人生がかからないと思う。
+- content: '**"BeDigital"** それで、ほかの色々な http://0oo.li  で説明されているアイディアに基づいたプロジェクトをしたいですが、それをするには一人の人生がかからないと思う。'
   created: 1592101543043
   id: ZiHpUymg8vF9-74cFYqK56Lj
-  modified: 1592101616049
+  modified: 1592158291844
   note: ''
 - children:
   - N-0iFkxCL50ZS54HmBqe1gBI
@@ -736,10 +737,10 @@
   id: oz_RKmVpeYBSEpaDtHjPWU0M
   modified: 1592129544690
   note: ''
-- content: '**日記**'
+- content: '**日記：** 　現在アクティブなタスクへのリンク ➘ [[Failed Payment Retry Fails](https://airtable.com/tblQexHTM0r8ygU8Y/viwzwc3dfz5gJ6Dc8/recq8zSWcbT2zpiZK)](https://dynalist.io/d/NICmPcwBTGx-XOuPgsQbKy0S#z=PWWUHS63VNl_bwB7JlAbsTgo)'
   created: 1592129075112
   id: Mw439-r5jIlZBwrSNdR_QU5Z
-  modified: 1592153757152
+  modified: 1592158237837
   note: ''
 - children:
   - I5YUZTek_VXMfuFW55n88FY3
@@ -774,4 +775,14 @@
   created: 1592153762230
   id: nVcghDaTjLhG3owfHlwoqEI8
   modified: 1592153763002
+  note: ''
+- content: そのタスクはどのプロジェクトと関係するか、**意義 ⇢ Y3. なにを？** ご覧下さい。
+  created: 1592158055403
+  id: EZXAWXYBZu0O9cEz2v2wM4Vy
+  modified: 1592158387863
+  note: ''
+- content: ''
+  created: 1592158388310
+  id: NoLrpgP7WM_v-CAecpsFaLIL
+  modified: 1592158393839
   note: ''
