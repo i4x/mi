@@ -6,6 +6,9 @@
   - gMRiEKBchJGOKExth2VKP04D
   - vN1M5DNJ7qjYxusgYAESONwH
   - bIsjo99PbUlzU_BT5DSdaLkV
+  - wW3-GkIRVQn-NpdsmRA8Kczu
+  - S6bFaRSG3FVRoaKUGsYEvAWo
+  - z91aF5ey7oYi6-UAomB51wYk
   content: 自分と皆さんの幸福を一番影響する変数
   created: 1592038391140
   id: root
@@ -718,4 +721,19 @@
   created: 1592103362613
   id: MSQDOZvdudkA0c5gQvcpGJDW
   modified: 1592108767638
+  note: ''
+- content: ちなみに、日本語を書くときに、片仮名の外来語を元々の外国語の単語に書き直せば、日本語はどうなるでしょう？只今
+  created: 1592121494425
+  id: S6bFaRSG3FVRoaKUGsYEvAWo
+  modified: 1592121600691
+  note: ''
+- content: ''
+  created: 1592121494291
+  id: wW3-GkIRVQn-NpdsmRA8Kczu
+  modified: 1592121498699
+  note: ''
+- content: https://gist.github.com/i4x/f5f11403cb1ad5c3c3ce03e93638d507 <- これを見てみて。
+  created: 1592121500666
+  id: z91aF5ey7oYi6-UAomB51wYk
+  modified: 1592121516734
   note: ''
