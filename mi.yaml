@@ -9,8 +9,8 @@
   content: 自分と皆さんの幸福を一番影響する変数
   created: 1592038391140
   id: root
-  modified: 1592101052538
-  note: 生活利用者マニュアル [GitHubでのバックアップ]()
+  modified: 1592102041574
+  note: 生活利用者マニュアルを書こう。 [当ページのバックアップ](https://github.com/i4x/mi/blob/master/mi.yaml)
 - children:
   - duOpeIOeCF1u-ZqSOhvZUgW0
   collapsed: true
@@ -47,7 +47,6 @@
   - HeM-F9-aBbJ2UQ0ex3j8z7xP
   - hbGIH_OL_kE7ftpDCsFph7Op
   - ClniEFmQtZ1URkunVpLWEbKf
-  collapsed: true
   color: 5
   content: '**M**eaning  **意義**：自分が定義した人生を意味作る目的、方法、プロジェクト'
   created: 1592038550917
@@ -56,6 +55,7 @@
   note: ''
 - children:
   - eQuJcU7bgHEGLHMD5PKyAA-B
+  collapsed: true
   content: '**Y1. なぜ？**'
   created: 1592038556182
   id: HeM-F9-aBbJ2UQ0ex3j8z7xP
@@ -63,31 +63,30 @@
   note: ''
 - children:
   - r8rAvGPI0zdnIOS4gsoMznLi
+  collapsed: true
   content: '**Y2. どうやって？**'
   created: 1592038606176
   id: hbGIH_OL_kE7ftpDCsFph7Op
   modified: 1592041135573
   note: ''
 - children:
-  - Zv-cpheJU1spvSxpd8fciRNM
-  - 7wH1oRZzmmpvo4J8hMMP1CZG
-  - 0utus3mPgg7IzPLZjQKNkb-B
-  collapsed: true
-  content: '**Y3. なにを**'
+  - O56oXVQmV1nY8L1oWyUYnBe3
+  content: '**Y3. なにを？**'
   created: 1592038612206
   id: ClniEFmQtZ1URkunVpLWEbKf
-  modified: 1592042887568
+  modified: 1592101651578
   note: ''
 - children:
   - nmGXQhcNG1hBWze68vVvG_Yu
   - Ta7n3KjUaOWwDIBhKgTnkY2H
-  content: '**専門的なチャレンジ**'
+  content: '**目的 ／ 専門的なチャレンジ**'
   created: 1592040923792
   id: eQuJcU7bgHEGLHMD5PKyAA-B
-  modified: 1592041040038
+  modified: 1592101639575
   note: 最近のあなたが興味深い 専門的なチャレンジ は何でしょうか？
 - children:
   - PudnKjp3XR0KjRyycl9yFkOt
+  collapsed: true
   content: ' 人類が自分の目的を定義出来るための情報交換を促進し、人類の問題を解決するための実践的な知識の交換を促進出来るためのプロトコルを作ること。'
   created: 1592040944915
   id: nmGXQhcNG1hBWze68vVvG_Yu
@@ -97,6 +96,7 @@
     problems.)
 - children:
   - box8ufwrAcYv6v5o67lgWz7H
+  collapsed: true
   content: ' Piの正規性の予想に対する答えを理解し、実際に存在したいの物事のすべての可能な宇宙の集合を再構築すること。(倫理)'
   created: 1592040960271
   id: Ta7n3KjUaOWwDIBhKgTnkY2H
@@ -133,6 +133,7 @@
 - children:
   - _MbaD9j1_pcJwe4cWtIcpp3J
   - 6EeE_i_9dv9H6ys8sDZvm0_N
+  collapsed: true
   content: '**アイディア**'
   created: 1592041136680
   id: r8rAvGPI0zdnIOS4gsoMznLi
@@ -209,11 +210,6 @@
   id: Zv-cpheJU1spvSxpd8fciRNM
   modified: 1592043331680
   note: ''
-- content: 関係ないプロジェクトもしてるけど。（他のプログラミングタスク、とか分析タスク）
-  created: 1592043287805
-  id: 0utus3mPgg7IzPLZjQKNkb-B
-  modified: 1592043583681
-  note: ''
 - children:
   - gW3mPEoGhFzG7iIDNRknxafs
   - aSPTXZ9qhY8rBZ9HWUPvZEam
@@ -245,27 +241,32 @@
   note: ''
 - children:
   - u54TDwNZCeFhIfNexZUyXb9Q
+  collapsed: true
   content: '**[前に、今はない]** 腎臓の時折の痛み'
   created: 1592045034233
   id: XhRJVdr9PyVVUYzaRBaL3fuK
   modified: 1592045090031
   note: ''
-- content: ' 行動：結石除去手術（コンプリート！）**[成功]**'
+- checked: true
+  content: ' **行動**：結石除去手術（コンプリート！）**[成功]**'
   created: 1592045071942
   id: u54TDwNZCeFhIfNexZUyXb9Q
-  modified: 1592045150125
+  modified: 1592102197573
   note: ''
 - children:
   - SvKnn4kVgXA5rL7zidqnx2Tq
+  collapsed: true
   content: '**[今]** 耳感染症'
   created: 1592045090377
   id: GeEErT-lAzC88j1KJkx2aWHe
   modified: 1592045161592
   note: ''
-- content: 行動：？抗生物質？
+- children:
+  - _HxB55-vk8yzJHpyslq155JE
+  content: '**行動**：抗生物質 を選んで飲む？'
   created: 1592045111043
   id: SvKnn4kVgXA5rL7zidqnx2Tq
-  modified: 1592045180087
+  modified: 1592102222029
   note: ''
 - content: どうすれば減らす？
   created: 1592045215270
@@ -274,6 +275,7 @@
   note: ''
 - children:
   - AF5grB2TWlP9ppiBesZj2bm9
+  collapsed: true
   content: しらない事
   created: 1592045250932
   id: t5FD5yNPS34idCqIVzHyXU9d
@@ -282,12 +284,13 @@
 - children:
   - N9sYdBfWT0wBSMw4y_gFERIU
   - _3dVhImYsdWV9wqbVQsQ5DPs
+  collapsed: true
   content: '[半年前] 高血中コレステロール（High Blood Cholesterol (6.05) (DTL: 1.21, MTL: 4.15,
     TG: 1.51)）'
   created: 1592045278044
   id: Di0ciiTkQSsoDT01eweaozd-
-  modified: 1592045389647
-  note: ''
+  modified: 1592102125582
+  note: https://photos.google.com/search/_tra_/photo/AF1QipOpkhq86kCOYrwXInQA9xqRZGwWZdsL2P2hOmRc
 - content: '**行動：**ヌテラを減らし、果物/野菜を増やします。 もっと運動します。'
   created: 1592045292762
   id: _3dVhImYsdWV9wqbVQsQ5DPs
@@ -295,6 +298,7 @@
   note: ''
 - children:
   - FIoNUVUaJrhVPcJDgJ2HO8pP
+  collapsed: true
   content: '[いつも] 少し高い心拍数（90bpm）'
   created: 1592045392242
   id: mVASI92pWezdTo-hLzwKWsVs
@@ -312,6 +316,7 @@
   note: ''
 - children:
   - mA3NfDJbxM2hcP_hpk8C_6_k
+  collapsed: true
   content: 情報の損失
   created: 1592045636519
   id: XRmupbgDgos9jLkwSxaZnlB6
@@ -613,4 +618,103 @@
   created: 1592100980964
   id: -xWeD4m2vR9rpuglbZbBDLhk
   modified: 1592100985564
+  note: ''
+- children:
+  - Zv-cpheJU1spvSxpd8fciRNM
+  - 7wH1oRZzmmpvo4J8hMMP1CZG
+  - ZiHpUymg8vF9-74cFYqK56Lj
+  - MSQDOZvdudkA0c5gQvcpGJDW
+  content: '**プロジェクト**'
+  created: 1592101521750
+  id: O56oXVQmV1nY8L1oWyUYnBe3
+  modified: 1592101621570
+  note: ''
+- content: それで、ほかの色々な http://0oo.li  で説明されているアイディアに基づいたプロジェクトをしたいですが、それをするには一人の人生がかからないと思う。
+  created: 1592101543043
+  id: ZiHpUymg8vF9-74cFYqK56Lj
+  modified: 1592101616049
+  note: ''
+- children:
+  - N-0iFkxCL50ZS54HmBqe1gBI
+  - 4ve74Ivm8yHXbdKavJo1O97k
+  - 7G4rMSISsavL60t_k8R8nZtS
+  content: 詳細
+  created: 1592102222617
+  id: _HxB55-vk8yzJHpyslq155JE
+  modified: 1592102233569
+  note: ''
+- children:
+  - l4FT1UfrV3wMLmGv3IM4PTT3
+  - ozQfSgWbd2erRtJ4KJmZi8Wg
+  - DJvoeyepsnueSl1PpLun5uxX
+  - jWu2YtFf24kLWLbuaqdy0v2y
+  content: 2018：3月11日に、ビリニュスから重慶に来てから
+  created: 1592102234328
+  id: N-0iFkxCL50ZS54HmBqe1gBI
+  modified: 1592102317564
+  note: ''
+- content: 5月18日の前、耳と首の周りのリンパ節（lymph nodes）はすごい炎症
+  created: 1592102295404
+  id: ozQfSgWbd2erRtJ4KJmZi8Wg
+  modified: 1592102528054
+  note: ''
+- content: 子供が病気になって、彼を病院に運んだ後
+  created: 1592102344307
+  id: l4FT1UfrV3wMLmGv3IM4PTT3
+  modified: 1592102389583
+  note: ''
+- content: '5月25日: __我来了重庆，生病了之后，现在也还能感到跟以前不一样。耳朵，味道感觉。不健康的食物，淋巴堵塞，好像影响了我的健康。有可能有了长期的影响__
+    [流泪]'
+  created: 1592102524189
+  id: DJvoeyepsnueSl1PpLun5uxX
+  modified: 1592102575573
+  note: ''
+- children:
+  - Y8Hq47qjG4U3PDF9yfbwnGwS
+  content: '2019: 11月'
+  created: 1592102554834
+  id: 4ve74Ivm8yHXbdKavJo1O97k
+  modified: 1592102594076
+  note: ''
+- children:
+  - 7jcOloPsU145ZLnUleYvwMQx
+  content: '7月11日: 上海で、抗生物質を飲み始めた。'
+  created: 1592102593451
+  id: jWu2YtFf24kLWLbuaqdy0v2y
+  modified: 1592102888054
+  note: ''
+- content: リトアニアでBetaklav という抗生物質を飲んだ
+  created: 1592102633185
+  id: Y8Hq47qjG4U3PDF9yfbwnGwS
+  modified: 1592102714041
+  note: https://photos.google.com/search/_tra_/photo/AF1QipN17DB1OxpcxSNl69FsZxSdUMdrOSmO-0NsQH0h
+- children:
+  - 8a-51On0HLdXY2HIfWbgQVA0
+  - 19Mu3tIxNeRhE6-K4bpkHmwP
+  content: '2020: '
+  created: 1592102703770
+  id: 7G4rMSISsavL60t_k8R8nZtS
+  modified: 1592102726048
+  note: ''
+- content: 3月11日：又耳感染症
+  created: 1592102742580
+  id: 8a-51On0HLdXY2HIfWbgQVA0
+  modified: 1592102869579
+  note: Septinis šoko baimė. SImptomai panašūs.
+- content: 6月1日：2018又全く同じ感覚
+  created: 1592102777826
+  id: 19Mu3tIxNeRhE6-K4bpkHmwP
+  modified: 1592102851565
+  note: Pasikartoja vėl tie patys simptomai, kaip 2018 metais, identiški. Tikriausiai
+    dėl to, kad imuninė sistema susilpnėjo mažiau valgant dėl koronaviruso, bet pagrindinė
+    priežastis
+- content: '**[具体的な薬を調べ中]**'
+  created: 1592102888503
+  id: 7jcOloPsU145ZLnUleYvwMQx
+  modified: 1592102923583
+  note: ''
+- content: '**注意**：i0.0oo.li  をデーター取得やマイニングに使うこで、他の人（例えば弟の）プロジェクトはどうやってMetadriveと関係があることを見せる。'
+  created: 1592103362613
+  id: MSQDOZvdudkA0c5gQvcpGJDW
+  modified: 1592103493579
   note: ''
