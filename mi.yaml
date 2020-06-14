@@ -1,14 +1,13 @@
 - children:
-  - -xWeD4m2vR9rpuglbZbBDLhk
+  - bIsjo99PbUlzU_BT5DSdaLkV
   - 9TkpT99BvhrZ5zO5pH-Jcauh
   - 56fxKyBxMNBMLKbdb8kGuhHt
   - mQ0q498KvdFm0OABJXLUwgo5
   - gMRiEKBchJGOKExth2VKP04D
   - vN1M5DNJ7qjYxusgYAESONwH
-  - bIsjo99PbUlzU_BT5DSdaLkV
-  - wW3-GkIRVQn-NpdsmRA8Kczu
-  - S6bFaRSG3FVRoaKUGsYEvAWo
+  - -xWeD4m2vR9rpuglbZbBDLhk
   - z91aF5ey7oYi6-UAomB51wYk
+  - UglmYLK589pnp2gJq8Rshlde
   content: 自分と皆さんの幸福を一番影響する変数
   created: 1592038391140
   id: root
@@ -398,10 +397,10 @@
   id: nKEIsfj9Y5S9U5P7UeMBx0QQ
   modified: 1592046428016
   note: ''
-- content: 皆のこの５つの分野を最適化すれば、皆が幸せになると思いますから、このパターンで、自分についても書くことができます。
+- content: 皆のこの５つの変数集合を最適化すれば、幸せになると思いますから、下記のパターンを自分の人生にも応用できます。（各行を展開することができます）
   created: 1592097843837
   id: bIsjo99PbUlzU_BT5DSdaLkV
-  modified: 1592101022053
+  modified: 1592124846673
   note: ''
 - content: 'Sy. : **行動**： 一緒に研究に招待する ( invite to research together)'
   created: 1592098087552
@@ -722,18 +721,13 @@
   id: MSQDOZvdudkA0c5gQvcpGJDW
   modified: 1592108767638
   note: ''
-- content: ちなみに、日本語を書くときに、片仮名の外来語を元々の外国語の単語に書き直せば、日本語はどうなるでしょう？只今
-  created: 1592121494425
-  id: S6bFaRSG3FVRoaKUGsYEvAWo
-  modified: 1592121600691
-  note: ''
-- content: ''
-  created: 1592121494291
-  id: wW3-GkIRVQn-NpdsmRA8Kczu
-  modified: 1592121498699
-  note: ''
-- content: https://gist.github.com/i4x/f5f11403cb1ad5c3c3ce03e93638d507 <- これを見てみて。
+- content: '**[2020-06-14]** ちなみに、日本語を書くときに、片仮名の外来語を元々の外国語の単語に書き直せば、日本語はどうなるでしょう？ただいまこの**[文章](https://gist.github.com/i4x/f5f11403cb1ad5c3c3ce03e93638d507)**を書いてこの答えを探りました。'
   created: 1592121500666
   id: z91aF5ey7oYi6-UAomB51wYk
-  modified: 1592121516734
+  modified: 1592121702681
+  note: ''
+- content: '**[2020-06-13]** 自分の[ツイキャス](https://twitcasting.tv/c:mindey)をはじめました。'
+  created: 1592123222259
+  id: UglmYLK589pnp2gJq8Rshlde
+  modified: 1592124888667
   note: ''
