@@ -5,14 +5,14 @@
   - mQ0q498KvdFm0OABJXLUwgo5
   - gMRiEKBchJGOKExth2VKP04D
   - vN1M5DNJ7qjYxusgYAESONwH
-  - -xWeD4m2vR9rpuglbZbBDLhk
   - z91aF5ey7oYi6-UAomB51wYk
   - UglmYLK589pnp2gJq8Rshlde
   content: 自分と皆さんの幸福を一番影響する変数
   created: 1592038391140
   id: root
-  modified: 1592102041574
-  note: 生活利用者マニュアルを書こう。 [当ページのバックアップ](https://github.com/i4x/mi/blob/master/mi.yaml)
+  modified: 1592127786687
+  note: 生活利用者マニュアルを書こう。 [当ページのバックアップ](https://github.com/i4x/mi/blob/master/mi.yaml)  僕の
+    **[自分史](https://photos.app.goo.gl/7d3i1sJEMwnM64C66)** をお気軽にご覧ください。
 - children:
   - duOpeIOeCF1u-ZqSOhvZUgW0
   collapsed: true
@@ -33,7 +33,6 @@
   modified: 1592097985584
   note: ''
 - children:
-  - wPM566NDpBbsHcMLg3vX3CBu
   - gNbAZSPpk29lfrg4b7nl4F4a
   - fEAW5p88xhBQoEraAcypGQiP
   - ol0IetbmdyFGCOI42xcQyDTP
@@ -74,6 +73,7 @@
   note: ''
 - children:
   - O56oXVQmV1nY8L1oWyUYnBe3
+  collapsed: true
   content: '**Y3. なにを？**'
   created: 1592038612206
   id: ClniEFmQtZ1URkunVpLWEbKf
@@ -229,6 +229,7 @@
   - mVASI92pWezdTo-hLzwKWsVs
   - t5FD5yNPS34idCqIVzHyXU9d
   - XRmupbgDgos9jLkwSxaZnlB6
+  collapsed: true
   content: '**H2. 長寿/死亡危険**'
   created: 1592044851901
   id: A1vsvEo3gHc4SVFXQ717gf_o
@@ -237,6 +238,7 @@
 - children:
   - XhRJVdr9PyVVUYzaRBaL3fuK
   - GeEErT-lAzC88j1KJkx2aWHe
+  collapsed: true
   content: '**H1. 感覚/痛み/不便**'
   created: 1592045020027
   id: j-zZSsnWe4vgg6MxYMWWCu2R
@@ -337,12 +339,11 @@
   - VUGVccfGdnsd5E0EG52ITvCZ
   - dMmSoe4bVWCvTG2WjOsVMIS0
   collapsed: true
-  content: '**R1.** 誰との関係を作成または改善したいですか？(Identify people, the relationships with whom
-    you’d like to create or improve)。その人または集団字を割り当てて、そのための行動を書いてください。'
+  content: '**R1.** 誰との関係を作成または改善したいですか？その人または集団字を割り当てて、そのための行動を書いてください。'
   created: 1592045798892
   id: duOpeIOeCF1u-ZqSOhvZUgW0
-  modified: 1592098267577
-  note: ''
+  modified: 1592125932679
+  note: (Identify people, the relationships with whom you’d like to create or improve)
 - children:
   - DGDiMD1NoTdSNy4QrHTbcc7I
   - -C8Mu8sZvCDaG_927VbfIONY
@@ -471,11 +472,11 @@
   - XZkFXgHtvlmhUgpXgkb_T2B5
   - 3Xw2AmjqeVVcOld5sHQFdAgF
   collapsed: true
-  content: '**F4.** Which 3-4 of these would give you most happiness right now?'
+  content: '**F4.** これらのうちどれが今あなたに最も幸せを与えるでしょうか？'
   created: 1592098959093
   id: RsBCUvmnGuLcMHPex9SBX7Zx
-  modified: 1592099071578
-  note: ''
+  modified: 1592125986666
+  note: (Which 3-4 of these would give you most happiness right now?)
 - content: （どこで買えまる、値段は）(Where can buy, Estimated price.)
   created: 1592098981424
   id: oY6P72YceibxWToxMphKDq8q
@@ -576,11 +577,6 @@
   id: P18Wc7agnfxjoRw-zAjkpA4q
   modified: 1592100001583
   note: ''
-- content: F0. バランス
-  created: 1592099129024
-  id: wPM566NDpBbsHcMLg3vX3CBu
-  modified: 1592100067574
-  note: ''
 - content: 友人の旅行（スカイスキャナー、ctrip、> = $ 150K /年）
   created: 1592099245844
   id: ioimmcRmcCEV7GyySqc7Nt2Z
@@ -616,11 +612,6 @@
   created: 1592100034067
   id: tc2D58sqxh1nJtbJCCU4UJjX
   modified: 1592100037571
-  note: ''
-- content: '**自分史：** https://photos.app.goo.gl/7d3i1sJEMwnM64C66'
-  created: 1592100980964
-  id: -xWeD4m2vR9rpuglbZbBDLhk
-  modified: 1592100985564
   note: ''
 - children:
   - Zv-cpheJU1spvSxpd8fciRNM
@@ -716,18 +707,19 @@
   id: 7jcOloPsU145ZLnUleYvwMQx
   modified: 1592102923583
   note: ''
-- content: '**注意**：**i0.0oo.li**  をデーター取得やマイニングに使うこで、他の人（例えば弟の）プロジェクトはどうやってMetadriveと関係があることを見せる。'
+- content: '**注意**：**i0.0oo.li**  をデーター取得やマイニングに使うこで、他の人（例えば弟の [BeDigital](https://www.bedigital.io)、例えば
+    Suji の[スジテク](https://sujitech.com)、例えばいくつかの研究室の友）プロジェクトはどうやってMetadriveと関係があることを見せる。'
   created: 1592103362613
   id: MSQDOZvdudkA0c5gQvcpGJDW
-  modified: 1592108767638
+  modified: 1592125770722
   note: ''
 - content: '**[2020-06-14]** ちなみに、日本語を書くときに、片仮名の外来語を元々の外国語の単語に書き直せば、日本語はどうなるでしょう？ただいまこの**[文章](https://gist.github.com/i4x/f5f11403cb1ad5c3c3ce03e93638d507)**を書いてこの答えを探りました。'
   created: 1592121500666
   id: z91aF5ey7oYi6-UAomB51wYk
   modified: 1592121702681
   note: ''
-- content: '**[2020-06-13]** 自分の[ツイキャス](https://twitcasting.tv/c:mindey)をはじめました。'
+- content: '**[2020-06-13]** 自分の[ツイキャス](https://twitcasting.tv/c:mindey)をはじめました。あとでは、パスワードなしの登録方法([ident](https://github.com/mindey/ident/))。'
   created: 1592123222259
   id: UglmYLK589pnp2gJq8Rshlde
-  modified: 1592124888667
+  modified: 1592127709143
   note: ''
