@@ -5,6 +5,8 @@
   - mQ0q498KvdFm0OABJXLUwgo5
   - gMRiEKBchJGOKExth2VKP04D
   - vN1M5DNJ7qjYxusgYAESONwH
+  - oz_RKmVpeYBSEpaDtHjPWU0M
+  - Mw439-r5jIlZBwrSNdR_QU5Z
   - z91aF5ey7oYi6-UAomB51wYk
   - UglmYLK589pnp2gJq8Rshlde
   content: 自分と皆さんの幸福を一番影響する変数
@@ -722,4 +724,48 @@
   created: 1592123222259
   id: UglmYLK589pnp2gJq8Rshlde
   modified: 1592127709143
+  note: ''
+- children:
+  - AUnZtk_62Aiukh3pxcgsg7CM
+  - 2B4_rKJx-Y7Br3XCpmninxqH
+  - 0ni23vOkQX7VhgLKMWTXrPDC
+  collapsed: true
+  content: '**方程式 F(X)=Yに基づく現在状態についての３つの質問**'
+  created: 1592129074876
+  id: oz_RKmVpeYBSEpaDtHjPWU0M
+  modified: 1592129544690
+  note: ''
+- content: 毎日
+  created: 1592129075112
+  id: Mw439-r5jIlZBwrSNdR_QU5Z
+  modified: 1592129083136
+  note: ''
+- children:
+  - I5YUZTek_VXMfuFW55n88FY3
+  - rKkabtvB2d8JzgO1pRQ9OHWh
+  collapsed: true
+  content: '**F: どこ**に居る？（何の特徴または物事を持っています？）'
+  created: 1592129083129
+  id: AUnZtk_62Aiukh3pxcgsg7CM
+  modified: 1592129526695
+  note: ''
+- content: '**宇宙**ではどこ？（どの銀河、惑星、大陸、アドレス）'
+  created: 1592129141474
+  id: I5YUZTek_VXMfuFW55n88FY3
+  modified: 1592129256679
+  note: ''
+- content: '**社会**にはどこ？（国、組織、責任、やること）'
+  created: 1592129146611
+  id: rKkabtvB2d8JzgO1pRQ9OHWh
+  modified: 1592129436691
+  note: ''
+- content: '**Y: どこ**に行きたい？（何を持ちたい）'
+  created: 1592129246893
+  id: 2B4_rKJx-Y7Br3XCpmninxqH
+  modified: 1592129310691
+  note: ''
+- content: '**X:** **どうやって**行けますか？（上の5つの分野を５次元スペースを意味してる）'
+  created: 1592129322549
+  id: 0ni23vOkQX7VhgLKMWTXrPDC
+  modified: 1592129514705
   note: ''
