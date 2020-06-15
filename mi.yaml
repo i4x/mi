@@ -9,7 +9,7 @@
   - nVcghDaTjLhG3owfHlwoqEI8
   - Mw439-r5jIlZBwrSNdR_QU5Z
   - EZXAWXYBZu0O9cEz2v2wM4Vy
-  - NoLrpgP7WM_v-CAecpsFaLIL
+  - 7yDk-Z_czozI3zWRsrHoxMHe
   - z91aF5ey7oYi6-UAomB51wYk
   - UglmYLK589pnp2gJq8Rshlde
   content: ◯ 自分と皆さんの幸福を一番影響する変数
@@ -79,6 +79,7 @@
   note: ''
 - children:
   - O56oXVQmV1nY8L1oWyUYnBe3
+  collapsed: true
   content: '**Y3. なにを？**'
   created: 1592038612206
   id: ClniEFmQtZ1URkunVpLWEbKf
@@ -194,29 +195,25 @@
   id: C2AeXDXqKcymAlTDNL5iFeGy
   modified: 1592042821580
   note: ''
-- content: https://i0.0oo.li  ( https://github.com/wefindx/metadrive )
+- content: 説明： https://0oo.li/project/854/
   created: 1592042868200
   id: XroknWXlcWc9Rftk_1kQ_Mgm
-  modified: 1592043241610
-  note: ''
-- content: https://0oo.li ( https://gitlab.com/wefindx/0oo )
-  created: 1592043118201
-  id: 8YG6a2Kz3zv2GBEr7oHZ52V-
-  modified: 1592043289754
+  modified: 1592199390111
   note: ''
 - children:
   - XroknWXlcWc9Rftk_1kQ_Mgm
-  content: '**"i0"** プロジェクト名/会社名：**Metadrive** (based on idea 1)'
+  - EO8y1QHrVicJUM72EzETWD4H
+  content: '**"i0"** プロジェクト名/会社名：**Metadrive**  (アイディア２に基づく）'
   created: 1592043174995
   id: 7wH1oRZzmmpvo4J8hMMP1CZG
-  modified: 1592158297843
+  modified: 1592199636092
   note: ''
 - children:
-  - 8YG6a2Kz3zv2GBEr7oHZ52V-
-  content: '**"0oo"** プロジェクト名/会社名：**Infinity** (based on idea 2)'
+  - SNIzxXJ7Q7bRougbAOycrUKp
+  content: '**"0oo"** プロジェクト名/会社名：**Infinity** (アイディア１に基づく）'
   created: 1592043187462
   id: Zv-cpheJU1spvSxpd8fciRNM
-  modified: 1592158297843
+  modified: 1592199624559
   note: ''
 - children:
   - gW3mPEoGhFzG7iIDNRknxafs
@@ -620,18 +617,14 @@
   note: ''
 - children:
   - Zv-cpheJU1spvSxpd8fciRNM
+  - hwQaZvWs2cMV_xkvUJGTRJD8
   - 7wH1oRZzmmpvo4J8hMMP1CZG
-  - ZiHpUymg8vF9-74cFYqK56Lj
-  - MSQDOZvdudkA0c5gQvcpGJDW
+  - t14YJ8RghuF6RP77LK5xDDhe
+  collapsed: true
   content: '**プロジェクト**'
   created: 1592101521750
   id: O56oXVQmV1nY8L1oWyUYnBe3
   modified: 1592101621570
-  note: ''
-- content: '**"BeDigital"** それで、ほかの色々な http://0oo.li  で説明されているアイディアに基づいたプロジェクトをしたいですが、それをするには一人の人生がかからないと思う。'
-  created: 1592101543043
-  id: ZiHpUymg8vF9-74cFYqK56Lj
-  modified: 1592158291844
   note: ''
 - children:
   - N-0iFkxCL50ZS54HmBqe1gBI
@@ -712,12 +705,6 @@
   id: 7jcOloPsU145ZLnUleYvwMQx
   modified: 1592102923583
   note: ''
-- content: '**注意**：**i0.0oo.li**  をデーター取得やマイニングに使うこで、他の人（例えば弟の [BeDigital](https://www.bedigital.io)、例えば
-    Suji の[スジテク](https://sujitech.com)、例えばいくつかの研究室の友）プロジェクトはどうやってMetadriveと関係があることを見せる。'
-  created: 1592103362613
-  id: MSQDOZvdudkA0c5gQvcpGJDW
-  modified: 1592125770722
-  note: ''
 - content: '**[2020-06-14]** ちなみに、日本語を書くときに、片仮名の外来語を元々の外国語の単語に書き直せば、日本語はどうなるでしょう？ただいまこの**[文章](https://gist.github.com/i4x/f5f11403cb1ad5c3c3ce03e93638d507)**を書いてこの答えを探りました。'
   created: 1592121500666
   id: z91aF5ey7oYi6-UAomB51wYk
@@ -782,10 +769,10 @@
   id: EZXAWXYBZu0O9cEz2v2wM4Vy
   modified: 1592158387863
   note: ''
-- content: ''
+- content: 'ページ [0oo.li/rate](https://0oo.li/rate) の翻訳追加。 '
   created: 1592158388310
   id: NoLrpgP7WM_v-CAecpsFaLIL
-  modified: 1592158393839
+  modified: 1592200010952
   note: ''
 - content: '**注意**：世界の関係を理解するには、世界のお金と取引を理解する必要がある。'
   created: 1592196006664
@@ -793,3 +780,38 @@
   modified: 1592196030103
   note: (To understand the world's relationships, we need to understand world's money
     and transactions.)
+- content: '説明： https://0oo.li/project/235/ '
+  created: 1592199333217
+  id: SNIzxXJ7Q7bRougbAOycrUKp
+  modified: 1592199438094
+  note: ''
+- children:
+  - 2oA-8mmBmhklX0x5cZcv2M5M
+  content: 例えば **"BeDigital"** （僕の弟のプロジェクト）：
+  created: 1592199488020
+  id: t14YJ8RghuF6RP77LK5xDDhe
+  modified: 1592199720101
+  note: ''
+- content: 紹介： https://0oo.li/project/908/
+  created: 1592199491838
+  id: 2oA-8mmBmhklX0x5cZcv2M5M
+  modified: 1592199498126
+  note: ''
+- content: あとはそれぞれの http://0oo.li  で説明されているアイディアに基づいたプロジェクト。例えば：
+  created: 1592199529429
+  id: hwQaZvWs2cMV_xkvUJGTRJD8
+  modified: 1592199690146
+  note: ''
+- content: ノート： データー取得やマイニングに使うこで、他の人（例えば弟の [BeDigital](https://www.bedigital.io)、例えば
+    Suji の[スジテク](https://sujitech.com)、例えばいくつかの研究室の友）プロジェクトはどうやってMetadriveと関係があることを見せる。
+  created: 1592199571189
+  id: EO8y1QHrVicJUM72EzETWD4H
+  modified: 1592199576106
+  note: ''
+- children:
+  - NoLrpgP7WM_v-CAecpsFaLIL
+  content: '!(2020-06-15) ノート'
+  created: 1592199977148
+  id: 7yDk-Z_czozI3zWRsrHoxMHe
+  modified: 1592199980960
+  note: ''
