@@ -38,6 +38,7 @@
   modified: 1592097985584
   note: ''
 - children:
+  - JNCwADwkX35aKOZTbiWumlkc
   - gNbAZSPpk29lfrg4b7nl4F4a
   - fEAW5p88xhBQoEraAcypGQiP
   - ol0IetbmdyFGCOI42xcQyDTP
@@ -47,7 +48,7 @@
   content: '**F**inance **財務**：交流方法の一つ'
   created: 1592038422518
   id: gMRiEKBchJGOKExth2VKP04D
-  modified: 1592097997564
+  modified: 1592196000098
   note: ''
 - children:
   - HeM-F9-aBbJ2UQ0ex3j8z7xP
@@ -786,3 +787,9 @@
   id: NoLrpgP7WM_v-CAecpsFaLIL
   modified: 1592158393839
   note: ''
+- content: '**注意**：世界の関係を理解するには、世界のお金と取引を理解する必要がある。'
+  created: 1592196006664
+  id: JNCwADwkX35aKOZTbiWumlkc
+  modified: 1592196030103
+  note: (To understand the world's relationships, we need to understand world's money
+    and transactions.)
