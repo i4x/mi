@@ -626,6 +626,7 @@
   - N-0iFkxCL50ZS54HmBqe1gBI
   - 4ve74Ivm8yHXbdKavJo1O97k
   - 7G4rMSISsavL60t_k8R8nZtS
+  - XvEvW-fz3K3nYD6FJPqIOon7
   content: 詳細
   created: 1592102222617
   id: _HxB55-vk8yzJHpyslq155JE
@@ -633,6 +634,7 @@
   note: ''
 - children:
   - l4FT1UfrV3wMLmGv3IM4PTT3
+  - bsoQcaUgIa_d3agwAozHnj-i
   - ozQfSgWbd2erRtJ4KJmZi8Wg
   - DJvoeyepsnueSl1PpLun5uxX
   - jWu2YtFf24kLWLbuaqdy0v2y
@@ -829,4 +831,48 @@
   created: 1592201129167
   id: 4YelGlLN91SkwQycjfA1joG3
   modified: 1592201135326
+  note: ''
+- children:
+  - 6Mx2wjoUrvXb-xTa2sXYwhj6
+  content: 5月14日 子供の血液
+  created: 1592222598938
+  id: bsoQcaUgIa_d3agwAozHnj-i
+  modified: 1592222626945
+  note: https://photos.google.com/search/_tra_/photo/AF1QipOdGUkdpDaCEGG0csa7o8K-l4YxSIFJbBLlzhj8
+- content: 子供は懸濁液用アジスロマイシン0.1g
+  created: 1592222625500
+  id: 6Mx2wjoUrvXb-xTa2sXYwhj6
+  modified: 1592225309620
+  note: '[azithromycin for suspension 0.1g](https://www.medicines.org.uk/emc/product/3006/smpc)
+
+    https://wiki.mindey.com/shared/shots/0753fb8c6cc0f80166f85f1f2.png'
+- content: Pasėliai
+  created: 1592225097892
+  id: m8C7lFXBL5b9nS38ogZtOw8W
+  modified: 1592225104916
+  note: ''
+- content: Nosiaryklės tyrimas
+  created: 1592225102912
+  id: DM2yaFK_aJFRyB_RTLsR5rFd
+  modified: 1592225110909
+  note: ''
+- content: Kraujo tyrimas.
+  created: 1592225108950
+  id: LYXvRaIdLjf1BWGIxwqP3JSx
+  modified: 1592225116913
+  note: ''
+- children:
+  - kxpCmFYXlcnNcCY3_BfEAN0U
+  - m8C7lFXBL5b9nS38ogZtOw8W
+  - DM2yaFK_aJFRyB_RTLsR5rFd
+  - LYXvRaIdLjf1BWGIxwqP3JSx
+  content: '**行動：**'
+  created: 1592225241737
+  id: XvEvW-fz3K3nYD6FJPqIOon7
+  modified: 1592225261708
+  note: ''
+- content: ''
+  created: 1592225313195
+  id: kxpCmFYXlcnNcCY3_BfEAN0U
+  modified: 1592225314925
   note: ''
