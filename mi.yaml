@@ -30,7 +30,6 @@
 - children:
   - j-zZSsnWe4vgg6MxYMWWCu2R
   - A1vsvEo3gHc4SVFXQ717gf_o
-  collapsed: true
   color: 4
   content: '**H**ealth **健康**：体と精神の状態'
   created: 1592038416048
@@ -240,7 +239,6 @@
 - children:
   - XhRJVdr9PyVVUYzaRBaL3fuK
   - GeEErT-lAzC88j1KJkx2aWHe
-  collapsed: true
   content: '**H1. 感覚/痛み/不便**'
   created: 1592045020027
   id: j-zZSsnWe4vgg6MxYMWWCu2R
@@ -262,7 +260,6 @@
   note: ''
 - children:
   - SvKnn4kVgXA5rL7zidqnx2Tq
-  collapsed: true
   content: '**[今]** 耳感染症'
   created: 1592045090377
   id: GeEErT-lAzC88j1KJkx2aWHe
@@ -645,7 +642,9 @@
   id: N-0iFkxCL50ZS54HmBqe1gBI
   modified: 1592102317564
   note: ''
-- content: 5月18日の前、耳と首の周りのリンパ節（lymph nodes）はすごい炎症
+- children:
+  - 9KlPgwIh5ib8eMHbckBKxCpk
+  content: 5月18日の前、耳と首の周りのリンパ節（lymph nodes）はすごい炎症
   created: 1592102295404
   id: ozQfSgWbd2erRtJ4KJmZi8Wg
   modified: 1592102528054
@@ -670,6 +669,7 @@
   note: ''
 - children:
   - 7jcOloPsU145ZLnUleYvwMQx
+  - 4YelGlLN91SkwQycjfA1joG3
   content: '7月11日: 上海で、抗生物質を飲み始めた。'
   created: 1592102593451
   id: jWu2YtFf24kLWLbuaqdy0v2y
@@ -683,6 +683,7 @@
 - children:
   - 8a-51On0HLdXY2HIfWbgQVA0
   - 19Mu3tIxNeRhE6-K4bpkHmwP
+  - bZ-LO9iseHhxyEJ7_nQdfKoV
   content: '2020: '
   created: 1592102703770
   id: 7G4rMSISsavL60t_k8R8nZtS
@@ -814,4 +815,19 @@
   created: 1592199977148
   id: 7yDk-Z_czozI3zWRsrHoxMHe
   modified: 1592199980960
+  note: ''
+- content: ネオマイシンと硫酸ポリミキシンBとバシトラシンで軟膏にしようとした
+  created: 1592200955003
+  id: bZ-LO9iseHhxyEJ7_nQdfKoV
+  modified: 1592201068945
+  note: Tried to ointment with neomycin and polymyxin B sulfate and Bacitracin
+- content: 中国でこの点耳剤を使ってたけど、役立ってなかった
+  created: 1592201075275
+  id: 9KlPgwIh5ib8eMHbckBKxCpk
+  modified: 1592203283381
+  note: オフロキサシン点耳薬 (Ofloxacin Ear Drops )https://drugs.dxy.cn/drug/124800.htm
+- content: 見つけない
+  created: 1592201129167
+  id: 4YelGlLN91SkwQycjfA1joG3
+  modified: 1592201135326
   note: ''
