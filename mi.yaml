@@ -9,6 +9,8 @@
   - nVcghDaTjLhG3owfHlwoqEI8
   - Mw439-r5jIlZBwrSNdR_QU5Z
   - EZXAWXYBZu0O9cEz2v2wM4Vy
+  - bfGv9OeayoNlr9vFz4aJIZum
+  - eNM1R6PJ2BTNwBY1Rd4SA8TI
   - 7yDk-Z_czozI3zWRsrHoxMHe
   - z91aF5ey7oYi6-UAomB51wYk
   - UglmYLK589pnp2gJq8Rshlde
@@ -79,7 +81,6 @@
   note: ''
 - children:
   - O56oXVQmV1nY8L1oWyUYnBe3
-  collapsed: true
   content: '**Y3. なにを？**'
   created: 1592038612206
   id: ClniEFmQtZ1URkunVpLWEbKf
@@ -203,17 +204,18 @@
 - children:
   - XroknWXlcWc9Rftk_1kQ_Mgm
   - EO8y1QHrVicJUM72EzETWD4H
-  content: '**"i0"** プロジェクト名/会社名：**Metadrive**  (アイディア２に基づく）'
+  content: '**#i0:** プロジェクト名/会社名：**Metadrive**  (アイディア２に基づく）'
   created: 1592043174995
   id: 7wH1oRZzmmpvo4J8hMMP1CZG
-  modified: 1592199636092
+  modified: 1592300875218
   note: ''
 - children:
   - SNIzxXJ7Q7bRougbAOycrUKp
-  content: '**"0oo"** プロジェクト名/会社名：**Infinity** (アイディア１に基づく）'
+  collapsed: true
+  content: '**#0oo:** プロジェクト名/会社名：**Infinity** (アイディア１に基づく）'
   created: 1592043187462
   id: Zv-cpheJU1spvSxpd8fciRNM
-  modified: 1592199624559
+  modified: 1592300869194
   note: ''
 - children:
   - gW3mPEoGhFzG7iIDNRknxafs
@@ -617,7 +619,6 @@
   - hwQaZvWs2cMV_xkvUJGTRJD8
   - 7wH1oRZzmmpvo4J8hMMP1CZG
   - t14YJ8RghuF6RP77LK5xDDhe
-  collapsed: true
   content: '**プロジェクト**'
   created: 1592101521750
   id: O56oXVQmV1nY8L1oWyUYnBe3
@@ -728,10 +729,10 @@
   id: oz_RKmVpeYBSEpaDtHjPWU0M
   modified: 1592129544690
   note: ''
-- content: '**日記：** 　現在アクティブなタスクへのリンク ➘ [[Failed Payment Retry Fails](https://airtable.com/tblQexHTM0r8ygU8Y/viwzwc3dfz5gJ6Dc8/recq8zSWcbT2zpiZK)](https://dynalist.io/d/NICmPcwBTGx-XOuPgsQbKy0S#z=PWWUHS63VNl_bwB7JlAbsTgo)'
+- content: '**日記：** 　現在アクティブなタスクへのリンク ➘'
   created: 1592129075112
   id: Mw439-r5jIlZBwrSNdR_QU5Z
-  modified: 1592158237837
+  modified: 1592300167197
   note: ''
 - children:
   - I5YUZTek_VXMfuFW55n88FY3
@@ -772,11 +773,6 @@
   id: EZXAWXYBZu0O9cEz2v2wM4Vy
   modified: 1592158387863
   note: ''
-- content: 'ページ [0oo.li/rate](https://0oo.li/rate) の翻訳追加。 '
-  created: 1592158388310
-  id: NoLrpgP7WM_v-CAecpsFaLIL
-  modified: 1592200010952
-  note: ''
 - content: '**注意**：世界の関係を理解するには、世界のお金と取引を理解する必要がある。'
   created: 1592196006664
   id: JNCwADwkX35aKOZTbiWumlkc
@@ -790,10 +786,10 @@
   note: ''
 - children:
   - 2oA-8mmBmhklX0x5cZcv2M5M
-  content: 例えば **"BeDigital"** （僕の弟のプロジェクト）：
+  content: '**#bd:** プロジェクト：**BeDigital**（僕の弟のプロジェクト）：'
   created: 1592199488020
   id: t14YJ8RghuF6RP77LK5xDDhe
-  modified: 1592199720101
+  modified: 1592300935202
   note: ''
 - content: 紹介： https://0oo.li/project/908/
   created: 1592199491838
@@ -812,7 +808,9 @@
   modified: 1592199576106
   note: ''
 - children:
-  - NoLrpgP7WM_v-CAecpsFaLIL
+  - ZOPepMCw_mOmbhyU9HHBDbTY
+  - bnr8R6MkFEYfGyeOTTC97tla
+  - d6xWD0ciD-qQDVEtGhs9SoCr
   content: '!(2020-06-15) ノート'
   created: 1592199977148
   id: 7yDk-Z_czozI3zWRsrHoxMHe
@@ -876,4 +874,29 @@
   created: 1592225313195
   id: kxpCmFYXlcnNcCY3_BfEAN0U
   modified: 1592225314925
+  note: ''
+- content: '**現在：** **#i0:** '
+  created: 1592300149503
+  id: eNM1R6PJ2BTNwBY1Rd4SA8TI
+  modified: 1592300971216
+  note: ''
+- content: '**#bd:** [[この](https://airtable.com/tblQexHTM0r8ygU8Y/viwzwc3dfz5gJ6Dc8/recq8zSWcbT2zpiZK)](https://dynalist.io/d/NICmPcwBTGx-XOuPgsQbKy0S#z=PWWUHS63VNl_bwB7JlAbsTgo)タスクをするためにUpWorkで、JSプログラマーを見つけた。開発環境を紹介した。あしたはプログラマーがこのタスクを処理する予定。'
+  created: 1592300195532
+  id: bnr8R6MkFEYfGyeOTTC97tla
+  modified: 1592300953217
+  note: ''
+- content: '**#0oo:** ページ [0oo.li/rate](https://0oo.li/rate) の翻訳追加。 '
+  created: 1592300212677
+  id: ZOPepMCw_mOmbhyU9HHBDbTY
+  modified: 1592300953217
+  note: ''
+- content: ''
+  created: 1592301156424
+  id: d6xWD0ciD-qQDVEtGhs9SoCr
+  modified: 1592301159829
+  note: ''
+- content: ''
+  created: 1592301161345
+  id: bfGv9OeayoNlr9vFz4aJIZum
+  modified: 1592301165373
   note: ''
