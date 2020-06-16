@@ -6,11 +6,10 @@
   - gMRiEKBchJGOKExth2VKP04D
   - vN1M5DNJ7qjYxusgYAESONwH
   - oz_RKmVpeYBSEpaDtHjPWU0M
-  - nVcghDaTjLhG3owfHlwoqEI8
-  - Mw439-r5jIlZBwrSNdR_QU5Z
-  - EZXAWXYBZu0O9cEz2v2wM4Vy
   - bfGv9OeayoNlr9vFz4aJIZum
-  - eNM1R6PJ2BTNwBY1Rd4SA8TI
+  - E23BuWre2Pxzs8X8YoE9sXGa
+  - Z6PWmSt4A38t6wpw0ps85q4T
+  - V74EAdXxj10KLbzZtIIS3il7
   - 7yDk-Z_czozI3zWRsrHoxMHe
   - z91aF5ey7oYi6-UAomB51wYk
   - UglmYLK589pnp2gJq8Rshlde
@@ -56,7 +55,6 @@
   - HeM-F9-aBbJ2UQ0ex3j8z7xP
   - hbGIH_OL_kE7ftpDCsFph7Op
   - ClniEFmQtZ1URkunVpLWEbKf
-  collapsed: true
   color: 5
   content: '**M**eaning  **意義**：自分が定義した人生を意味作る目的、方法、プロジェクト'
   created: 1592038550917
@@ -729,11 +727,6 @@
   id: oz_RKmVpeYBSEpaDtHjPWU0M
   modified: 1592129544690
   note: ''
-- content: '**日記：** 　現在アクティブなタスクへのリンク ➘'
-  created: 1592129075112
-  id: Mw439-r5jIlZBwrSNdR_QU5Z
-  modified: 1592300167197
-  note: ''
 - children:
   - I5YUZTek_VXMfuFW55n88FY3
   - rKkabtvB2d8JzgO1pRQ9OHWh
@@ -762,16 +755,6 @@
   created: 1592129322549
   id: 0ni23vOkQX7VhgLKMWTXrPDC
   modified: 1592129514705
-  note: ''
-- content: ''
-  created: 1592153762230
-  id: nVcghDaTjLhG3owfHlwoqEI8
-  modified: 1592153763002
-  note: ''
-- content: そのタスクはどのプロジェクトと関係するか、**意義 ⇢ Y3. なにを？** ご覧下さい。
-  created: 1592158055403
-  id: EZXAWXYBZu0O9cEz2v2wM4Vy
-  modified: 1592158387863
   note: ''
 - content: '**注意**：世界の関係を理解するには、世界のお金と取引を理解する必要がある。'
   created: 1592196006664
@@ -875,11 +858,6 @@
   id: kxpCmFYXlcnNcCY3_BfEAN0U
   modified: 1592225314925
   note: ''
-- content: '**現在：** **#i0:** '
-  created: 1592300149503
-  id: eNM1R6PJ2BTNwBY1Rd4SA8TI
-  modified: 1592300971216
-  note: ''
 - content: '**#bd:** [[この](https://airtable.com/tblQexHTM0r8ygU8Y/viwzwc3dfz5gJ6Dc8/recq8zSWcbT2zpiZK)](https://dynalist.io/d/NICmPcwBTGx-XOuPgsQbKy0S#z=PWWUHS63VNl_bwB7JlAbsTgo)タスクをするためにUpWorkで、JSプログラマーを見つけた。開発環境を紹介した。あしたはプログラマーがこのタスクを処理する予定。'
   created: 1592300195532
   id: bnr8R6MkFEYfGyeOTTC97tla
@@ -899,4 +877,19 @@
   created: 1592301161345
   id: bfGv9OeayoNlr9vFz4aJIZum
   modified: 1592301165373
+  note: ''
+- content: '**現在：** **#i0:**  [0. Can''t post new posts in RSS.](https://dynalist.io/d/-AEDoLzgO39zc8sc7ppHoxCp#z=hJtPEF80Uvh9z5RWZuiknSsm)'
+  created: 1592302311237
+  id: E23BuWre2Pxzs8X8YoE9sXGa
+  modified: 1592302370859
+  note: ''
+- content: '**過去 ⇣**'
+  created: 1592302313637
+  id: V74EAdXxj10KLbzZtIIS3il7
+  modified: 1592302352855
+  note: ''
+- content: ''
+  created: 1592302355999
+  id: Z6PWmSt4A38t6wpw0ps85q4T
+  modified: 1592302358846
   note: ''
