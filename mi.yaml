@@ -6,6 +6,9 @@
   - gMRiEKBchJGOKExth2VKP04D
   - vN1M5DNJ7qjYxusgYAESONwH
   - oz_RKmVpeYBSEpaDtHjPWU0M
+  - AUnZtk_62Aiukh3pxcgsg7CM
+  - 2B4_rKJx-Y7Br3XCpmninxqH
+  - 0ni23vOkQX7VhgLKMWTXrPDC
   - bfGv9OeayoNlr9vFz4aJIZum
   - E23BuWre2Pxzs8X8YoE9sXGa
   - Z6PWmSt4A38t6wpw0ps85q4T
@@ -31,6 +34,7 @@
 - children:
   - j-zZSsnWe4vgg6MxYMWWCu2R
   - A1vsvEo3gHc4SVFXQ717gf_o
+  collapsed: true
   color: 4
   content: '**H**ealth **健康**：体と精神の状態'
   created: 1592038416048
@@ -54,6 +58,7 @@
   - HeM-F9-aBbJ2UQ0ex3j8z7xP
   - hbGIH_OL_kE7ftpDCsFph7Op
   - ClniEFmQtZ1URkunVpLWEbKf
+  collapsed: true
   color: 5
   content: '**M**eaning  **意義**：自分が定義した人生を意味作る目的、方法、プロジェクト'
   created: 1592038550917
@@ -78,6 +83,7 @@
   note: ''
 - children:
   - O56oXVQmV1nY8L1oWyUYnBe3
+  collapsed: true
   content: '**Y3. なにを？**'
   created: 1592038612206
   id: ClniEFmQtZ1URkunVpLWEbKf
@@ -716,12 +722,7 @@
   id: UglmYLK589pnp2gJq8Rshlde
   modified: 1592127709143
   note: ''
-- children:
-  - AUnZtk_62Aiukh3pxcgsg7CM
-  - 2B4_rKJx-Y7Br3XCpmninxqH
-  - 0ni23vOkQX7VhgLKMWTXrPDC
-  collapsed: true
-  content: '**方程式 F(X)=Yに基づく現在状態についての３つの質問**'
+- content: '**方程式 F(X)=Yに基づく現在状態についての３つの質問**'
   created: 1592129074876
   id: oz_RKmVpeYBSEpaDtHjPWU0M
   modified: 1592129544690
@@ -745,10 +746,10 @@
   id: rKkabtvB2d8JzgO1pRQ9OHWh
   modified: 1592129436691
   note: ''
-- content: '**Y: どこ**に行きたい？（何を持ちたい）'
+- content: '**Y: どこ**に行きたい？（または何を持ちたい）'
   created: 1592129246893
   id: 2B4_rKJx-Y7Br3XCpmninxqH
-  modified: 1592129310691
+  modified: 1592376412782
   note: ''
 - content: '**X:** **どうやって**行けますか？（上の5つの分野を５次元スペースを意味してる）'
   created: 1592129322549
@@ -877,10 +878,10 @@
   id: bfGv9OeayoNlr9vFz4aJIZum
   modified: 1592301165373
   note: ''
-- content: '**現在：** **#i0:**  [0. Can''t post new posts in RSS.](https://dynalist.io/d/-AEDoLzgO39zc8sc7ppHoxCp#z=hJtPEF80Uvh9z5RWZuiknSsm)'
+- content: '**⇢ 現在：** **#i0:**  [0. Can''t post new posts in RSS.](https://dynalist.io/d/-AEDoLzgO39zc8sc7ppHoxCp#z=hJtPEF80Uvh9z5RWZuiknSsm)'
   created: 1592302311237
   id: E23BuWre2Pxzs8X8YoE9sXGa
-  modified: 1592302370859
+  modified: 1592376358784
   note: ''
 - content: '**過去 ⇣**'
   created: 1592302313637
