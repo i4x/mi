@@ -337,12 +337,11 @@
   modified: 1592097571585
   note: ''
 - children:
-  - R5T3frsLLsuFa2h31pNNV0vM
   - D5w7Mf1KfYSQKQF92XjKlaeq
+  - R5T3frsLLsuFa2h31pNNV0vM
   - RfVnXNvG5Vm2TZXeWVjqq6hW
   - VUGVccfGdnsd5E0EG52ITvCZ
   - dMmSoe4bVWCvTG2WjOsVMIS0
-  collapsed: true
   content: '**R1.** 誰との関係を作成または改善したいですか？その人または集団字を割り当てて、そのための行動を書いてください。'
   created: 1592045798892
   id: duOpeIOeCF1u-ZqSOhvZUgW0
@@ -407,16 +406,16 @@
   id: bIsjo99PbUlzU_BT5DSdaLkV
   modified: 1592153727034
   note: ''
-- content: 'Sy. : **行動**： 一緒に研究に招待する ( invite to research together)'
+- content: 'S. : **行動**： 一緒に研究に招待する ( invite to research together)'
   created: 1592098087552
   id: R5T3frsLLsuFa2h31pNNV0vM
-  modified: 1592098435576
+  modified: 1592396684699
   note: ''
-- content: 'Iz., Nl., Yk., Hl., Xg., Yl., Yt..... : **行動**： 回答への招待[アンケート](https://curiosity.mindey.com)
+- content: 'I.z, Nl., Yk., Hl., Xg., Yl., Yt..... : **行動**： 回答への招待[アンケート](https://curiosity.mindey.com)
     (invite to answer [questionnaire](https://curiosity.mindey.com))'
   created: 1592098296889
   id: D5w7Mf1KfYSQKQF92XjKlaeq
-  modified: 1592098460015
+  modified: 1592396696628
   note: ''
 - content: Al., Sv.：**行動**：一緒にコードに招待する ( invite to code together)
   created: 1592098352553
