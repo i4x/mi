@@ -878,10 +878,14 @@
   id: bfGv9OeayoNlr9vFz4aJIZum
   modified: 1592301165373
   note: ''
-- content: '**⇢ 現在：** **#i0:**  [0. Can''t post new posts in RSS.](https://dynalist.io/d/-AEDoLzgO39zc8sc7ppHoxCp#z=hJtPEF80Uvh9z5RWZuiknSsm)'
+- children:
+  - Jywt4tut39h0AZuA1Bx9MjwR
+  content: '**⇢ 現在：** **#0oo:** Add [XIRR](https://github.com/mindey/fnx) to https://0oo.li/projects
+    , cause they have all data needed for it, and it''s straightforward to. Ideally,
+    we would not need scipy, but...'
   created: 1592302311237
   id: E23BuWre2Pxzs8X8YoE9sXGa
-  modified: 1592376358784
+  modified: 1592563680252
   note: ''
 - content: '**過去 ⇣**'
   created: 1592302313637
@@ -892,4 +896,17 @@
   created: 1592302355999
   id: Z6PWmSt4A38t6wpw0ps85q4T
   modified: 1592302358846
+  note: ''
+- children:
+  - iOG2m9hr-6FGlRuZPAiTJr8m
+  content: That needs to group [task & transfer] into one stream of cashflows, and
+    ideally, display them historically, as they occurred by dete "happened" .
+  created: 1592563743503
+  id: Jywt4tut39h0AZuA1Bx9MjwR
+  modified: 1592563794245
+  note: ''
+- content: ''
+  created: 1592563792166
+  id: iOG2m9hr-6FGlRuZPAiTJr8m
+  modified: 1592563794245
   note: ''
