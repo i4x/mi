@@ -13,6 +13,7 @@
   - E23BuWre2Pxzs8X8YoE9sXGa
   - Z6PWmSt4A38t6wpw0ps85q4T
   - V74EAdXxj10KLbzZtIIS3il7
+  - jhOUp_oT9CVnUvSxQrBvtcNv
   - 7yDk-Z_czozI3zWRsrHoxMHe
   - z91aF5ey7oYi6-UAomB51wYk
   - UglmYLK589pnp2gJq8Rshlde
@@ -878,14 +879,10 @@
   id: bfGv9OeayoNlr9vFz4aJIZum
   modified: 1592301165373
   note: ''
-- children:
-  - Jywt4tut39h0AZuA1Bx9MjwR
-  content: '**⇢ 現在：** **#0oo:** Add [XIRR](https://github.com/mindey/fnx) to https://0oo.li/projects
-    , cause they have all data needed for it, and it''s straightforward to. Ideally,
-    we would not need scipy, but...'
+- content: '**⇢ 現在：** '
   created: 1592302311237
   id: E23BuWre2Pxzs8X8YoE9sXGa
-  modified: 1592563680252
+  modified: 1592582490247
   note: ''
 - content: '**過去 ⇣**'
   created: 1592302313637
@@ -898,15 +895,24 @@
   modified: 1592302358846
   note: ''
 - children:
-  - iOG2m9hr-6FGlRuZPAiTJr8m
-  content: That needs to group [task & transfer] into one stream of cashflows, and
-    ideally, display them historically, as they occurred by dete "happened" .
-  created: 1592563743503
-  id: Jywt4tut39h0AZuA1Bx9MjwR
-  modified: 1592563794245
+  - shRcfnA35R2pgk832lSvR_yk
+  content: '!(2020-06-19)  **#0oo:** Add [XIRR](https://github.com/mindey/fnx) to
+    https://0oo.li/projects , cause they have all data needed for it, and it''s straightforward
+    to. Ideally, we would not need scipy, but...'
+  created: 1592582465485
+  id: jhOUp_oT9CVnUvSxQrBvtcNv
+  modified: 1592582478250
   note: ''
 - content: ''
-  created: 1592563792166
-  id: iOG2m9hr-6FGlRuZPAiTJr8m
-  modified: 1592563794245
+  created: 1592582465782
+  id: t1h25Fuh11npQQNJ1PeH-quY
+  modified: 1592582466244
+  note: ''
+- children:
+  - t1h25Fuh11npQQNJ1PeH-quY
+  content: That needs to group [task & transfer] into one stream of cashflows, and
+    ideally, display them historically, as they occurred by dete "happened" .
+  created: 1592582465782
+  id: shRcfnA35R2pgk832lSvR_yk
+  modified: 1592582466244
   note: ''
