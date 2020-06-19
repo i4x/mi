@@ -265,6 +265,7 @@
   note: ''
 - children:
   - SvKnn4kVgXA5rL7zidqnx2Tq
+  collapsed: true
   content: '**[今]** 耳感染症'
   created: 1592045090377
   id: GeEErT-lAzC88j1KJkx2aWHe
@@ -716,10 +717,10 @@
   id: z91aF5ey7oYi6-UAomB51wYk
   modified: 1592121702681
   note: ''
-- content: '**[2020-06-13]** 自分の[ツイキャス](https://twitcasting.tv/c:mindey)をはじめました。あとでは、パスワードなしの登録方法([ident](https://github.com/mindey/ident/))。'
+- content: '**[2020-06-13]** 自分の**ツイキャス**をはじめました。あとでは、パスワードなしの登録方法([ident](https://github.com/mindey/ident/))。'
   created: 1592123222259
   id: UglmYLK589pnp2gJq8Rshlde
-  modified: 1592127709143
+  modified: 1592548144849
   note: ''
 - content: '**方程式 F(X)=Yに基づく現在状態についての３つの質問**'
   created: 1592129074876
