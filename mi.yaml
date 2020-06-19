@@ -26,20 +26,20 @@
   - duOpeIOeCF1u-ZqSOhvZUgW0
   collapsed: true
   color: 3
-  content: '**R**elationships **関係**：人と人の中の関係や活動。'
+  content: '**3. R**elationships **関係**：人と人の中の関係や活動。'
   created: 1592038409531
   id: mQ0q498KvdFm0OABJXLUwgo5
-  modified: 1592097992086
+  modified: 1592550020021
   note: ''
 - children:
   - j-zZSsnWe4vgg6MxYMWWCu2R
   - A1vsvEo3gHc4SVFXQ717gf_o
   collapsed: true
   color: 4
-  content: '**H**ealth **健康**：体と精神の状態'
+  content: '**2. H**ealth **健康**：体と精神の状態'
   created: 1592038416048
   id: 56fxKyBxMNBMLKbdb8kGuhHt
-  modified: 1592097985584
+  modified: 1592550020021
   note: ''
 - children:
   - JNCwADwkX35aKOZTbiWumlkc
@@ -49,10 +49,10 @@
   - RsBCUvmnGuLcMHPex9SBX7Zx
   collapsed: true
   color: 2
-  content: '**F**inance **財務**：交流方法の一つ'
+  content: '**4. F**inance **財務**：交流方法の一つ'
   created: 1592038422518
   id: gMRiEKBchJGOKExth2VKP04D
-  modified: 1592196000098
+  modified: 1592550026018
   note: ''
 - children:
   - HeM-F9-aBbJ2UQ0ex3j8z7xP
@@ -60,10 +60,10 @@
   - ClniEFmQtZ1URkunVpLWEbKf
   collapsed: true
   color: 5
-  content: '**M**eaning  **意義**：自分が定義した人生を意味作る目的、方法、プロジェクト'
+  content: '**1. M**eaning  **意義**：自分が定義した人生を意味作る目的、方法、プロジェクト'
   created: 1592038550917
   id: 9TkpT99BvhrZ5zO5pH-Jcauh
-  modified: 1592097979561
+  modified: 1592550014512
   note: ''
 - children:
   - eQuJcU7bgHEGLHMD5PKyAA-B
@@ -226,10 +226,10 @@
   - tyjmS1hCFA7qbJgwpwde7Yhy
   collapsed: true
   color: 1
-  content: '**E**xperiences **体験**：私達の幸福は人生経験を大いに関連付けてる。'
+  content: '**5. E**xperiences **体験**：私達の幸福は人生経験を大いに関連付けてる。'
   created: 1592044742841
   id: vN1M5DNJ7qjYxusgYAESONwH
-  modified: 1592098004042
+  modified: 1592550026018
   note: ''
 - children:
   - Di0ciiTkQSsoDT01eweaozd-
