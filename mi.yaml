@@ -827,25 +827,22 @@
   note: '[azithromycin for suspension 0.1g](https://www.medicines.org.uk/emc/product/3006/smpc)
 
     https://wiki.mindey.com/shared/shots/0753fb8c6cc0f80166f85f1f2.png'
-- content: Pasėliai
+- children:
+  - Ck9bpDlMV_n-XQKiNjkFwB75
+  content: '**Pasėliai (Cell Culture)**'
   created: 1592225097892
   id: m8C7lFXBL5b9nS38ogZtOw8W
-  modified: 1592225104916
-  note: ''
-- content: Nosiaryklės tyrimas
-  created: 1592225102912
-  id: DM2yaFK_aJFRyB_RTLsR5rFd
-  modified: 1592225110909
+  modified: 1592672498040
   note: ''
 - children:
   - _YdmDu8ayVlAyvx3rgMp-d64
   - UGM8-Ot3QgDDjPFMQunq7X6m
   - M6yCfnAOpRXwOWKTzpCd4Sg2
   - NViED76lL5Ag06kPEDmJF3Fp
-  content: Blood Te
+  content: '**Blood Test**'
   created: 1592225108950
   id: LYXvRaIdLjf1BWGIxwqP3JSx
-  modified: 1592672402207
+  modified: 1592672498040
   note: ''
 - children:
   - Yt4nSyonQxhW1EN40Tr_CGF6
@@ -875,7 +872,9 @@
   id: bfGv9OeayoNlr9vFz4aJIZum
   modified: 1592301165373
   note: ''
-- content: '**⇢ 現在：** Make it possible to sell shares of 0oo. In particular:'
+- children:
+  - Kp-mDBYPxkz_O6K_-bTQj_q0
+  content: '**⇢ 現在：** Make it possible to sell shares of 0oo. In particular:'
   created: 1592302311237
   id: E23BuWre2Pxzs8X8YoE9sXGa
   modified: 1592638622048
@@ -899,14 +898,7 @@
   id: jhOUp_oT9CVnUvSxQrBvtcNv
   modified: 1592582478250
   note: ''
-- content: ''
-  created: 1592582465782
-  id: t1h25Fuh11npQQNJ1PeH-quY
-  modified: 1592582466244
-  note: ''
-- children:
-  - t1h25Fuh11npQQNJ1PeH-quY
-  content: That needs to group [task & transfer] into one stream of cashflows, and
+- content: That needs to group [task & transfer] into one stream of cashflows, and
     ideally, display them historically, as they occurred by dete "happened" .
   created: 1592582465782
   id: shRcfnA35R2pgk832lSvR_yk
@@ -914,8 +906,9 @@
   note: ''
 - children:
   - LYXvRaIdLjf1BWGIxwqP3JSx
-  - DM2yaFK_aJFRyB_RTLsR5rFd
   - m8C7lFXBL5b9nS38ogZtOw8W
+  - jQAfFih8NkL5pvIoJWtd-EWR
+  - iM5WtzNZwQNl9wgGs54sXGdr
   content: '**6月17日**：検査'
   created: 1592671303011
   id: Yt4nSyonQxhW1EN40Tr_CGF6
@@ -945,4 +938,45 @@
   created: 1592672370228
   id: NViED76lL5Ag06kPEDmJF3Fp
   modified: 1592672378039
+  note: ''
+- children:
+  - a07uAHEVCjylGhVuHhEo3bZ8
+  content: '**Nosiaryklės tyrimas**'
+  created: 1592672411593
+  id: jQAfFih8NkL5pvIoJWtd-EWR
+  modified: 1592672498040
+  note: ''
+- content: '**[In progress]**'
+  created: 1592672469806
+  id: Ck9bpDlMV_n-XQKiNjkFwB75
+  modified: 1592672480036
+  note: ''
+- content: '[Visual examination OK]'
+  created: 1592672476500
+  id: a07uAHEVCjylGhVuHhEo3bZ8
+  modified: 1592672492045
+  note: ''
+- content: ''
+  created: 1592672478657
+  id: iM5WtzNZwQNl9wgGs54sXGdr
+  modified: 1592672480036
+  note: ''
+- children:
+  - j7ID4Q10afedPenYBRoiLSHl
+  content: i.e., for the price that they pay, we buy and send them gold and silver!
+  created: 1592674345077
+  id: qb-GvedHbNbUK7CBhv3glKho
+  modified: 1592674358030
+  note: ''
+- children:
+  - qb-GvedHbNbUK7CBhv3glKho
+  content: Tie silver or gold with 0oo friendship certificate.
+  created: 1592674344314
+  id: Kp-mDBYPxkz_O6K_-bTQj_q0
+  modified: 1592674346058
+  note: ''
+- content: ''
+  created: 1592674358098
+  id: j7ID4Q10afedPenYBRoiLSHl
+  modified: 1592674364042
   note: ''
