@@ -25,7 +25,6 @@
     \  があります。 僕の **[自分史](https://photos.app.goo.gl/7d3i1sJEMwnM64C66)** をお気軽にご覧できます。"
 - children:
   - duOpeIOeCF1u-ZqSOhvZUgW0
-  collapsed: true
   color: 3
   content: '**3. R**elationships **関係**：人と人の中の関係や活動。'
   created: 1592038409531
@@ -35,6 +34,7 @@
 - children:
   - j-zZSsnWe4vgg6MxYMWWCu2R
   - A1vsvEo3gHc4SVFXQ717gf_o
+  collapsed: true
   color: 4
   content: '**2. H**ealth **健康**：体と精神の状態'
   created: 1592038416048
@@ -146,7 +146,6 @@
 - children:
   - _MbaD9j1_pcJwe4cWtIcpp3J
   - 6EeE_i_9dv9H6ys8sDZvm0_N
-  collapsed: true
   content: '**アイディア**'
   created: 1592041136680
   id: r8rAvGPI0zdnIOS4gsoMznLi
@@ -224,7 +223,6 @@
   - gW3mPEoGhFzG7iIDNRknxafs
   - aSPTXZ9qhY8rBZ9HWUPvZEam
   - tyjmS1hCFA7qbJgwpwde7Yhy
-  collapsed: true
   color: 1
   content: '**5. E**xperiences **体験**：私達の幸福は人生経験を大いに関連付けてる。'
   created: 1592044742841
@@ -245,6 +243,7 @@
 - children:
   - XhRJVdr9PyVVUYzaRBaL3fuK
   - GeEErT-lAzC88j1KJkx2aWHe
+  collapsed: true
   content: '**H1. 感覚/痛み/不便**'
   created: 1592045020027
   id: j-zZSsnWe4vgg6MxYMWWCu2R
@@ -252,6 +251,7 @@
   note: ''
 - children:
   - u54TDwNZCeFhIfNexZUyXb9Q
+  collapsed: true
   content: '**[前に、今はない]** 腎臓の時折の痛み'
   created: 1592045034233
   id: XhRJVdr9PyVVUYzaRBaL3fuK
@@ -265,6 +265,7 @@
   note: ''
 - children:
   - SvKnn4kVgXA5rL7zidqnx2Tq
+  collapsed: true
   content: '**[今]** 耳感染症'
   created: 1592045090377
   id: GeEErT-lAzC88j1KJkx2aWHe
