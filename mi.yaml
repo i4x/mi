@@ -35,7 +35,6 @@
 - children:
   - j-zZSsnWe4vgg6MxYMWWCu2R
   - A1vsvEo3gHc4SVFXQ717gf_o
-  collapsed: true
   color: 4
   content: '**2. H**ealth **健康**：体と精神の状態'
   created: 1592038416048
@@ -266,7 +265,6 @@
   note: ''
 - children:
   - SvKnn4kVgXA5rL7zidqnx2Tq
-  collapsed: true
   content: '**[今]** 耳感染症'
   created: 1592045090377
   id: GeEErT-lAzC88j1KJkx2aWHe
@@ -644,43 +642,43 @@
   - ozQfSgWbd2erRtJ4KJmZi8Wg
   - DJvoeyepsnueSl1PpLun5uxX
   - jWu2YtFf24kLWLbuaqdy0v2y
-  content: 2018：3月11日に、ビリニュスから重慶に来てから
+  content: '**2018：3月11日**に、ビリニュスから重慶に来てから'
   created: 1592102234328
   id: N-0iFkxCL50ZS54HmBqe1gBI
-  modified: 1592102317564
+  modified: 1592671274509
   note: ''
 - children:
   - 9KlPgwIh5ib8eMHbckBKxCpk
-  content: 5月18日の前、耳と首の周りのリンパ節（lymph nodes）はすごい炎症
+  content: '**5月18日**の前、耳と首の周りのリンパ節（lymph nodes）はすごい炎症'
   created: 1592102295404
   id: ozQfSgWbd2erRtJ4KJmZi8Wg
-  modified: 1592102528054
+  modified: 1592671280035
   note: ''
 - content: 子供が病気になって、彼を病院に運んだ後
   created: 1592102344307
   id: l4FT1UfrV3wMLmGv3IM4PTT3
   modified: 1592102389583
   note: ''
-- content: '5月25日: __我来了重庆，生病了之后，现在也还能感到跟以前不一样。耳朵，味道感觉。不健康的食物，淋巴堵塞，好像影响了我的健康。有可能有了长期的影响__
+- content: '**5月25日**: __我来了重庆，生病了之后，现在也还能感到跟以前不一样。耳朵，味道感觉。不健康的食物，淋巴堵塞，好像影响了我的健康。有可能有了长期的影响__
     [流泪]'
   created: 1592102524189
   id: DJvoeyepsnueSl1PpLun5uxX
-  modified: 1592102575573
+  modified: 1592671286023
   note: ''
 - children:
   - Y8Hq47qjG4U3PDF9yfbwnGwS
-  content: '2019: 11月'
+  content: '**2019: 11月**'
   created: 1592102554834
   id: 4ve74Ivm8yHXbdKavJo1O97k
-  modified: 1592102594076
+  modified: 1592671292022
   note: ''
 - children:
   - 7jcOloPsU145ZLnUleYvwMQx
   - 4YelGlLN91SkwQycjfA1joG3
-  content: '7月11日: 上海で、抗生物質を飲み始めた。'
+  content: '**7月11日**: 上海で、抗生物質を飲み始めた。'
   created: 1592102593451
   id: jWu2YtFf24kLWLbuaqdy0v2y
-  modified: 1592102888054
+  modified: 1592671286023
   note: ''
 - content: リトアニアでBetaklav という抗生物質を飲んだ
   created: 1592102633185
@@ -691,20 +689,20 @@
   - 8a-51On0HLdXY2HIfWbgQVA0
   - 19Mu3tIxNeRhE6-K4bpkHmwP
   - bZ-LO9iseHhxyEJ7_nQdfKoV
-  content: '2020: '
+  content: '**2020**: '
   created: 1592102703770
   id: 7G4rMSISsavL60t_k8R8nZtS
-  modified: 1592102726048
+  modified: 1592671292022
   note: ''
-- content: 3月11日：又耳感染症
+- content: '**3月11日**：又耳感染症'
   created: 1592102742580
   id: 8a-51On0HLdXY2HIfWbgQVA0
-  modified: 1592102869579
+  modified: 1592671298041
   note: Septinis šoko baimė. SImptomai panašūs.
-- content: 6月1日：2018又全く同じ感覚
+- content: '**6月1日**：2018又全く同じ感覚'
   created: 1592102777826
   id: 19Mu3tIxNeRhE6-K4bpkHmwP
-  modified: 1592102851565
+  modified: 1592671298041
   note: Pasikartoja vėl tie patys simptomai, kaip 2018 metais, identiški. Tikriausiai
     dėl to, kad imuninė sistema susilpnėjo mažiau valgant dėl koronaviruso, bet pagrindinė
     priežastis
@@ -810,17 +808,17 @@
   id: 9KlPgwIh5ib8eMHbckBKxCpk
   modified: 1592203283381
   note: オフロキサシン点耳薬 (Ofloxacin Ear Drops )https://drugs.dxy.cn/drug/124800.htm
-- content: 見つけない
+- content: https://photos.app.goo.gl/11zKnA59S4FQEU1x9
   created: 1592201129167
   id: 4YelGlLN91SkwQycjfA1joG3
-  modified: 1592201135326
-  note: ''
+  modified: 1592669934262
+  note: https://drugs.dxy.cn/drug/119057.htm
 - children:
   - 6Mx2wjoUrvXb-xTa2sXYwhj6
-  content: 5月14日 子供の血液
+  content: '**5月14日** 子供の血液'
   created: 1592222598938
   id: bsoQcaUgIa_d3agwAozHnj-i
-  modified: 1592222626945
+  modified: 1592671280035
   note: https://photos.google.com/search/_tra_/photo/AF1QipOdGUkdpDaCEGG0csa7o8K-l4YxSIFJbBLlzhj8
 - content: 子供は懸濁液用アジスロマイシン0.1g
   created: 1592222625500
@@ -839,25 +837,23 @@
   id: DM2yaFK_aJFRyB_RTLsR5rFd
   modified: 1592225110909
   note: ''
-- content: Kraujo tyrimas.
+- children:
+  - _YdmDu8ayVlAyvx3rgMp-d64
+  - UGM8-Ot3QgDDjPFMQunq7X6m
+  - M6yCfnAOpRXwOWKTzpCd4Sg2
+  - NViED76lL5Ag06kPEDmJF3Fp
+  content: Blood Te
   created: 1592225108950
   id: LYXvRaIdLjf1BWGIxwqP3JSx
-  modified: 1592225116913
+  modified: 1592672402207
   note: ''
 - children:
-  - kxpCmFYXlcnNcCY3_BfEAN0U
-  - m8C7lFXBL5b9nS38ogZtOw8W
-  - DM2yaFK_aJFRyB_RTLsR5rFd
-  - LYXvRaIdLjf1BWGIxwqP3JSx
+  - Yt4nSyonQxhW1EN40Tr_CGF6
+  - Ve57nxg4cjwPOJCkJ8pMizL8
   content: '**行動：**'
   created: 1592225241737
   id: XvEvW-fz3K3nYD6FJPqIOon7
   modified: 1592225261708
-  note: ''
-- content: ''
-  created: 1592225313195
-  id: kxpCmFYXlcnNcCY3_BfEAN0U
-  modified: 1592225314925
   note: ''
 - content: '**#bd:** [[この](https://airtable.com/tblQexHTM0r8ygU8Y/viwzwc3dfz5gJ6Dc8/recq8zSWcbT2zpiZK)](https://dynalist.io/d/NICmPcwBTGx-XOuPgsQbKy0S#z=PWWUHS63VNl_bwB7JlAbsTgo)タスクをするためにUpWorkで、JSプログラマーを見つけた。開発環境を紹介した。あしたはプログラマーがこのタスクを処理する予定。'
   created: 1592300195532
@@ -915,4 +911,38 @@
   created: 1592582465782
   id: shRcfnA35R2pgk832lSvR_yk
   modified: 1592582466244
+  note: ''
+- children:
+  - LYXvRaIdLjf1BWGIxwqP3JSx
+  - DM2yaFK_aJFRyB_RTLsR5rFd
+  - m8C7lFXBL5b9nS38ogZtOw8W
+  content: '**6月17日**：検査'
+  created: 1592671303011
+  id: Yt4nSyonQxhW1EN40Tr_CGF6
+  modified: 1592671736048
+  note: ''
+- content: ''
+  created: 1592671737594
+  id: Ve57nxg4cjwPOJCkJ8pMizL8
+  modified: 1592671742073
+  note: ''
+- content: 'RDW-SD： 38.4，outside norm 39.0 - 53.0 '
+  created: 1592672308601
+  id: _YdmDu8ayVlAyvx3rgMp-d64
+  modified: 1592672348037
+  note: ''
+- content: '% EO: 5.2 %，outside norm 0.5 - 5.0'
+  created: 1592672328908
+  id: M6yCfnAOpRXwOWKTzpCd4Sg2
+  modified: 1592672348037
+  note: ''
+- content: 'PDW: 10.6 fL，outside norm  11.0 - 17.1'
+  created: 1592672328907
+  id: UGM8-Ot3QgDDjPFMQunq7X6m
+  modified: 1592672342023
+  note: ''
+- content: 'CRB: < 5'
+  created: 1592672370228
+  id: NViED76lL5Ag06kPEDmJF3Fp
+  modified: 1592672378039
   note: ''
