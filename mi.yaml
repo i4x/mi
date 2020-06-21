@@ -25,7 +25,7 @@
     \  があります。 僕の **[自分史](https://photos.app.goo.gl/7d3i1sJEMwnM64C66)** をお気軽にご覧できます。"
 - children:
   - duOpeIOeCF1u-ZqSOhvZUgW0
-  collapsed: true
+  - o1Q9GIcGkwECpN8Y2gQfdHIP
   color: 3
   content: '**3. R**elationships **関係**：人と人の中の関係や活動。'
   created: 1592038409531
@@ -59,7 +59,7 @@
   - HeM-F9-aBbJ2UQ0ex3j8z7xP
   - hbGIH_OL_kE7ftpDCsFph7Op
   - ClniEFmQtZ1URkunVpLWEbKf
-  collapsed: true
+  - BnTWhXrcrGOTAeYvOicO0U6h
   color: 5
   content: '**1. M**eaning  **意義**：自分が定義した人生を意味作る目的、方法、プロジェクト'
   created: 1592038550917
@@ -69,26 +69,26 @@
 - children:
   - eQuJcU7bgHEGLHMD5PKyAA-B
   collapsed: true
-  content: '**Y1. なぜ？**'
+  content: '**M1. なぜ？**'
   created: 1592038556182
   id: HeM-F9-aBbJ2UQ0ex3j8z7xP
-  modified: 1592041135573
+  modified: 1592746137527
   note: ''
 - children:
   - r8rAvGPI0zdnIOS4gsoMznLi
   collapsed: true
-  content: '**Y2. どうやって？**'
+  content: '**M2. どうやって？**'
   created: 1592038606176
   id: hbGIH_OL_kE7ftpDCsFph7Op
-  modified: 1592041135573
+  modified: 1592746143525
   note: ''
 - children:
   - O56oXVQmV1nY8L1oWyUYnBe3
   collapsed: true
-  content: '**Y3. なにを？**'
+  content: '**M3. なにを？**'
   created: 1592038612206
   id: ClniEFmQtZ1URkunVpLWEbKf
-  modified: 1592101651578
+  modified: 1592746143525
   note: ''
 - children:
   - nmGXQhcNG1hBWze68vVvG_Yu
@@ -345,6 +345,7 @@
   - RfVnXNvG5Vm2TZXeWVjqq6hW
   - VUGVccfGdnsd5E0EG52ITvCZ
   - dMmSoe4bVWCvTG2WjOsVMIS0
+  collapsed: true
   content: '**R1.** 誰との関係を作成または改善したいですか？その人または集団字を割り当てて、そのための行動を書いてください。'
   created: 1592045798892
   id: duOpeIOeCF1u-ZqSOhvZUgW0
@@ -475,8 +476,8 @@
   - ZM_U_RpfBgMDSxV_EnBNdTSm
   - QQqGueii1sJdl8zVqoYJQleR
   - esFeji27SlisiiKArYHjDhEj
-  - XZkFXgHtvlmhUgpXgkb_T2B5
   - 3Xw2AmjqeVVcOld5sHQFdAgF
+  collapsed: true
   content: '**F4.** これらのうちどれが今あなたに最も幸せを与えるでしょうか？'
   created: 1592098959093
   id: RsBCUvmnGuLcMHPex9SBX7Zx
@@ -494,7 +495,6 @@
   note: 'Travels & hotels for self (Availability: Skyscanner, ctrip, >= $30K / year)'
 - children:
   - oY6P72YceibxWToxMphKDq8q
-  collapsed: true
   content: 例：どんな商品？(What goods?)
   created: 1592099046266
   id: DGDiMD1NoTdSNy4QrHTbcc7I
@@ -542,12 +542,6 @@
   id: ZM_U_RpfBgMDSxV_EnBNdTSm
   modified: 1592099719565
   note: ' (Accessing rare specific facilities and equipment)'
-- checkbox: true
-  content: 精神転送/アップロード
-  created: 1592099078266
-  id: XZkFXgHtvlmhUgpXgkb_T2B5
-  modified: 1592099731579
-  note: (Mind upload)
 - checkbox: true
   content: '**より頻繁かつ便利に運動する**'
   created: 1592099078265
@@ -981,4 +975,88 @@
   created: 1592733283005
   id: jtTdDF_kaZftAAnt8BJtAoma
   modified: 1592733286003
+  note: ''
+- content: 'R2. '
+  created: 1592746075818
+  id: o1Q9GIcGkwECpN8Y2gQfdHIP
+  modified: 1592746083512
+  note: ''
+- children:
+  - RBcDk2rivrJOPqUGSNUKEE2E
+  - VUr-K80qqXSQTnoX1WNhiX8j
+  - qeyPC5aOZSljZ1uT0H5v0qtP
+  - rYTvdeFCOIoWCfJ0pVZjrJu_
+  - hkSKbGM6B9uoNctjFaMqMnta
+  - WjGU9Ak0IURfwV8f-Q68J8Tv
+  - 4NYDwnqvaCc19If_HhV8wXVw
+  - N1OrM42iQVbihJEUgouhg6fI
+  - bppqnCYPINiEOEQGJf2WTP9j
+  - cOH0SASETbMYVbl3DVcvQkko
+  collapsed: true
+  content: M4. これらのどちらが一番幸福させる？
+  created: 1592746156074
+  id: BnTWhXrcrGOTAeYvOicO0U6h
+  modified: 1592746191562
+  note: ''
+- checkbox: true
+  content: '社会と社会的愛情の最適化　(Improving             society and social love)              '
+  created: 1592746191396
+  id: RBcDk2rivrJOPqUGSNUKEE2E
+  modified: 1592746203554
+  note: ''
+- checkbox: true
+  content: 'その他：（以下に説明） Something             else: (describe below)              '
+  created: 1592746192321
+  id: cOH0SASETbMYVbl3DVcvQkko
+  modified: 1592746203554
+  note: ''
+- checkbox: true
+  content: '問題解決、アイデア、革新             (Problem solving, ideas             and innovation)              '
+  created: 1592746192318
+  id: rYTvdeFCOIoWCfJ0pVZjrJu_
+  modified: 1592746203554
+  note: ''
+- checkbox: true
+  content: '精神的な親密さとコラボレーション             (Mental intimacy and             collaboration)              '
+  created: 1592746192319
+  id: hkSKbGM6B9uoNctjFaMqMnta
+  modified: 1592746203554
+  note: ''
+- checkbox: true
+  content: '子供をと個人的な愛を育む             (Fostering kids and             personal love)              '
+  created: 1592746192316
+  id: VUr-K80qqXSQTnoX1WNhiX8j
+  modified: 1592746203554
+  note: ''
+- checkbox: true
+  content: '肉体的親密さと探求             (Physical intimacy and             exploration)              '
+  created: 1592746192319
+  id: WjGU9Ak0IURfwV8f-Q68J8Tv
+  modified: 1592746203554
+  note: ''
+- checkbox: true
+  content: '技術的創造性と理想的なシステム工学 Technological             creativity and ideal systems
+    engineering              '
+  created: 1592746192320
+  id: N1OrM42iQVbihJEUgouhg6fI
+  modified: 1592746203554
+  note: ''
+- checkbox: true
+  content: '数学を学び、宇宙の謎を解く Studying             math and solving the mystery of the
+    Universe.              '
+  created: 1592746192321
+  id: bppqnCYPINiEOEQGJf2WTP9j
+  modified: 1592746203554
+  note: ''
+- checkbox: true
+  content: '友達と一緒にいることと冒険             (Being with friends and             adventures)              '
+  created: 1592746192317
+  id: qeyPC5aOZSljZ1uT0H5v0qtP
+  modified: 1592746203554
+  note: ''
+- checkbox: true
+  content: 'アート、感情、表現             (Art, emotions and             expression)              '
+  created: 1592746192320
+  id: 4NYDwnqvaCc19If_HhV8wXVw
+  modified: 1592746203554
   note: ''
