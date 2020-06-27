@@ -5,7 +5,8 @@
   - mQ0q498KvdFm0OABJXLUwgo5
   - gMRiEKBchJGOKExth2VKP04D
   - vN1M5DNJ7qjYxusgYAESONwH
-  - oz_RKmVpeYBSEpaDtHjPWU0M
+  - Q8xNMym_pwgUjqMxMPF4oSbN
+  - FRDqB77jeSY-Moc-oMCKSBp_
   - AUnZtk_62Aiukh3pxcgsg7CM
   - 2B4_rKJx-Y7Br3XCpmninxqH
   - 0ni23vOkQX7VhgLKMWTXrPDC
@@ -26,6 +27,7 @@
 - children:
   - duOpeIOeCF1u-ZqSOhvZUgW0
   - o1Q9GIcGkwECpN8Y2gQfdHIP
+  collapsed: true
   color: 3
   content: '**3. R**elationships **関係**：人と人の中の関係や活動。'
   created: 1592038409531
@@ -60,6 +62,7 @@
   - hbGIH_OL_kE7ftpDCsFph7Op
   - ClniEFmQtZ1URkunVpLWEbKf
   - BnTWhXrcrGOTAeYvOicO0U6h
+  collapsed: true
   color: 5
   content: '**1. M**eaning  **意義**：自分が定義した人生を意味作る目的、方法、プロジェクト'
   created: 1592038550917
@@ -717,11 +720,6 @@
   id: UglmYLK589pnp2gJq8Rshlde
   modified: 1592548144849
   note: ''
-- content: '**方程式 F(X)=Yに基づく現在状態についての３つの質問**'
-  created: 1592129074876
-  id: oz_RKmVpeYBSEpaDtHjPWU0M
-  modified: 1592129544690
-  note: ''
 - children:
   - I5YUZTek_VXMfuFW55n88FY3
   - rKkabtvB2d8JzgO1pRQ9OHWh
@@ -965,16 +963,10 @@
   note: ''
 - children:
   - qb-GvedHbNbUK7CBhv3glKho
-  - jtTdDF_kaZftAAnt8BJtAoma
   content: Tie precious metals like silver or gold with 0oo friendship certificate.
   created: 1592674344314
   id: Kp-mDBYPxkz_O6K_-bTQj_q0
   modified: 1592676692089
-  note: ''
-- content: ''
-  created: 1592733283005
-  id: jtTdDF_kaZftAAnt8BJtAoma
-  modified: 1592733286003
   note: ''
 - content: 'R2. '
   created: 1592746075818
@@ -1059,4 +1051,14 @@
   created: 1592746192320
   id: 4NYDwnqvaCc19If_HhV8wXVw
   modified: 1592746203554
+  note: ''
+- content: '**方程式 F(X)=Yに基づく現在状態についての３つの質問**'
+  created: 1593258893594
+  id: FRDqB77jeSY-Moc-oMCKSBp_
+  modified: 1593258899892
+  note: ''
+- content: ''
+  created: 1593258895761
+  id: Q8xNMym_pwgUjqMxMPF4oSbN
+  modified: 1593258899892
   note: ''
