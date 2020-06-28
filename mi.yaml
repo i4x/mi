@@ -58,9 +58,7 @@
   modified: 1592550026018
   note: ''
 - children:
-  - HeM-F9-aBbJ2UQ0ex3j8z7xP
-  - hbGIH_OL_kE7ftpDCsFph7Op
-  - ClniEFmQtZ1URkunVpLWEbKf
+  - IYXprbyJzdgeX0j6QTkAghQc
   - BnTWhXrcrGOTAeYvOicO0U6h
   collapsed: true
   color: 5
@@ -72,26 +70,26 @@
 - children:
   - eQuJcU7bgHEGLHMD5PKyAA-B
   collapsed: true
-  content: '**M1. なぜ？**'
+  content: '**Y1. なぜ？**'
   created: 1592038556182
   id: HeM-F9-aBbJ2UQ0ex3j8z7xP
-  modified: 1592746137527
+  modified: 1593348607090
   note: ''
 - children:
   - r8rAvGPI0zdnIOS4gsoMznLi
   collapsed: true
-  content: '**M2. どうやって？**'
+  content: '**Y2. どうやって？**'
   created: 1592038606176
   id: hbGIH_OL_kE7ftpDCsFph7Op
-  modified: 1592746143525
+  modified: 1593348607090
   note: ''
 - children:
   - O56oXVQmV1nY8L1oWyUYnBe3
   collapsed: true
-  content: '**M3. なにを？**'
+  content: '**Y3. なにを？**'
   created: 1592038612206
   id: ClniEFmQtZ1URkunVpLWEbKf
-  modified: 1592746143525
+  modified: 1593348613093
   note: ''
 - children:
   - nmGXQhcNG1hBWze68vVvG_Yu
@@ -240,19 +238,19 @@
   - t5FD5yNPS34idCqIVzHyXU9d
   - XRmupbgDgos9jLkwSxaZnlB6
   collapsed: true
-  content: '**H2. 長寿/死亡危険**'
+  content: '**H2.** 長寿/死亡危険'
   created: 1592044851901
   id: A1vsvEo3gHc4SVFXQ717gf_o
-  modified: 1592045749634
+  modified: 1593348823132
   note: ''
 - children:
   - XhRJVdr9PyVVUYzaRBaL3fuK
   - GeEErT-lAzC88j1KJkx2aWHe
   collapsed: true
-  content: '**H1. 感覚/痛み/不便**'
+  content: '**H1.** 感覚/痛み/不便'
   created: 1592045020027
   id: j-zZSsnWe4vgg6MxYMWWCu2R
-  modified: 1592045749634
+  modified: 1593348817088
   note: ''
 - children:
   - u54TDwNZCeFhIfNexZUyXb9Q
@@ -985,72 +983,70 @@
   - bppqnCYPINiEOEQGJf2WTP9j
   - cOH0SASETbMYVbl3DVcvQkko
   collapsed: true
-  content: M4. これらのどちらが一番幸福させる？
+  content: '**M2.** これらのどちらが一番幸福させる？'
   created: 1592746156074
   id: BnTWhXrcrGOTAeYvOicO0U6h
-  modified: 1592746191562
+  modified: 1593348805092
   note: ''
 - checkbox: true
-  content: '社会と社会的愛情の最適化　(Improving             society and social love)              '
+  content: 社会と社会的愛情の最適化    (Improving  society and social love)
   created: 1592746191396
   id: RBcDk2rivrJOPqUGSNUKEE2E
-  modified: 1592746203554
+  modified: 1593348775096
   note: ''
 - checkbox: true
-  content: 'その他：（以下に説明） Something             else: (describe below)              '
+  content: 'その他：（以下に説明）    (Something else: (describe below))'
   created: 1592746192321
   id: cOH0SASETbMYVbl3DVcvQkko
-  modified: 1592746203554
+  modified: 1593348799093
   note: ''
 - checkbox: true
-  content: '問題解決、アイデア、革新             (Problem solving, ideas             and innovation)              '
+  content: 問題解決、アイデア、革新 (Problem solving, ideas and innovation)
   created: 1592746192318
   id: rYTvdeFCOIoWCfJ0pVZjrJu_
-  modified: 1592746203554
+  modified: 1593348775096
   note: ''
 - checkbox: true
-  content: '精神的な親密さとコラボレーション             (Mental intimacy and             collaboration)              '
+  content: 精神的な親密さとコラボレーション    (Mental intimacy and collaboration)
   created: 1592746192319
   id: hkSKbGM6B9uoNctjFaMqMnta
-  modified: 1592746203554
+  modified: 1593348769100
   note: ''
 - checkbox: true
-  content: '子供をと個人的な愛を育む             (Fostering kids and             personal love)              '
+  content: 子供をと個人的な愛を育む    (Fostering kids and  personal love)
   created: 1592746192316
   id: VUr-K80qqXSQTnoX1WNhiX8j
-  modified: 1592746203554
+  modified: 1593348775096
   note: ''
 - checkbox: true
-  content: '肉体的親密さと探求             (Physical intimacy and             exploration)              '
+  content: 肉体的親密さと探求    (Physical intimacy and exploration)
   created: 1592746192319
   id: WjGU9Ak0IURfwV8f-Q68J8Tv
-  modified: 1592746203554
+  modified: 1593348769100
   note: ''
 - checkbox: true
-  content: '技術的創造性と理想的なシステム工学 Technological             creativity and ideal systems
-    engineering              '
+  content: 技術的創造性と理想的なシステム工学    (Technological creativity and ideal systems engineering)
   created: 1592746192320
   id: N1OrM42iQVbihJEUgouhg6fI
-  modified: 1592746203554
+  modified: 1593348769100
   note: ''
 - checkbox: true
-  content: '数学を学び、宇宙の謎を解く Studying             math and solving the mystery of the
-    Universe.              '
+  content: 数学を学び、宇宙の謎を解く    (Studying math and solving the mystery of the Universe.)
   created: 1592746192321
   id: bppqnCYPINiEOEQGJf2WTP9j
-  modified: 1592746203554
+  modified: 1593348787098
   note: ''
 - checkbox: true
-  content: '友達と一緒にいることと冒険             (Being with friends and             adventures)              '
+  content: 友達と一緒にいることと冒険    (Being with friends and adventures)
   created: 1592746192317
   id: qeyPC5aOZSljZ1uT0H5v0qtP
-  modified: 1592746203554
+  modified: 1593348775096
   note: ''
 - checkbox: true
-  content: 'アート、感情、表現             (Art, emotions and             expression)              '
+  content: アート、感情、表現    (Art, emotions and expression)
   created: 1592746192320
   id: 4NYDwnqvaCc19If_HhV8wXVw
-  modified: 1592746203554
+  modified: 1593348769100
   note: ''
 - content: '**方程式 F(X)=Yに基づく現在状態についての３つの質問**'
   created: 1593258893594
@@ -1061,4 +1057,14 @@
   created: 1593258895761
   id: Q8xNMym_pwgUjqMxMPF4oSbN
   modified: 1593258899892
+  note: ''
+- children:
+  - HeM-F9-aBbJ2UQ0ex3j8z7xP
+  - hbGIH_OL_kE7ftpDCsFph7Op
+  - ClniEFmQtZ1URkunVpLWEbKf
+  collapsed: true
+  content: '**M1.** 専門的な志望と社会的な自己実現'
+  created: 1593348580468
+  id: IYXprbyJzdgeX0j6QTkAghQc
+  modified: 1593348697982
   note: ''
