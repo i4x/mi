@@ -1083,6 +1083,8 @@
   - WLOgfEYCbEwEidSyiQcqOudm
   - JRkM_-HBeSnR2cs-V9IlPLfk
   - WMQ_x_UUuUqpoiTZR1IpsAvm
+  - Bxo-oZiSLE3fG40D6302x1vG
+  - k33QnoqUiQZKy2A9XpGmlFIV
   content: '!(2020-06-30) '
   created: 1593524449478
   id: twPYuOhnB_lxTWz5DxrgB32c
@@ -1092,4 +1094,15 @@
   created: 1593524589599
   id: WMQ_x_UUuUqpoiTZR1IpsAvm
   modified: 1593524610991
+  note: ''
+- content: '[Holographic consensus](https://medium.com/daostack/holographic-consensus-part-2-4fd461e8dcde).
+    ?Write to?'
+  created: 1593531509141
+  id: Bxo-oZiSLE3fG40D6302x1vG
+  modified: 1593531548002
+  note: ''
+- content: ''
+  created: 1593531515067
+  id: k33QnoqUiQZKy2A9XpGmlFIV
+  modified: 1593531518004
   note: ''
