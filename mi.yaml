@@ -12,8 +12,8 @@
   - 0ni23vOkQX7VhgLKMWTXrPDC
   - bfGv9OeayoNlr9vFz4aJIZum
   - E23BuWre2Pxzs8X8YoE9sXGa
-  - Z6PWmSt4A38t6wpw0ps85q4T
   - V74EAdXxj10KLbzZtIIS3il7
+  - twPYuOhnB_lxTWz5DxrgB32c
   - jhOUp_oT9CVnUvSxQrBvtcNv
   - 7yDk-Z_czozI3zWRsrHoxMHe
   - z91aF5ey7oYi6-UAomB51wYk
@@ -866,6 +866,7 @@
   note: ''
 - children:
   - Kp-mDBYPxkz_O6K_-bTQj_q0
+  - dKxeVoTQ6wrOeLM75N1Pw5V8
   content: '**⇢ 現在：** Make it possible to sell shares of 0oo. In particular:'
   created: 1592302311237
   id: E23BuWre2Pxzs8X8YoE9sXGa
@@ -875,11 +876,6 @@
   created: 1592302313637
   id: V74EAdXxj10KLbzZtIIS3il7
   modified: 1592302352855
-  note: ''
-- content: ''
-  created: 1592302355999
-  id: Z6PWmSt4A38t6wpw0ps85q4T
-  modified: 1592302358846
   note: ''
 - children:
   - shRcfnA35R2pgk832lSvR_yk
@@ -1067,4 +1063,33 @@
   created: 1593348580468
   id: IYXprbyJzdgeX0j6QTkAghQc
   modified: 1593348697982
+  note: ''
+- content: '[RE: TUM](https://mail.google.com/mail/u/0/#sent/FMfcgxwJWXcxCHLJPWNrxzCCsqwWLrpk)'
+  created: 1593524435027
+  id: WLOgfEYCbEwEidSyiQcqOudm
+  modified: 1593524484330
+  note: ''
+- content: ''
+  created: 1593524441853
+  id: dKxeVoTQ6wrOeLM75N1Pw5V8
+  modified: 1593524442315
+  note: ''
+- content: '[RE: DOM](https://mail.google.com/mail/u/0/#inbox/KtbxLthVbvhzKBjstQmFnZtBtnDDdgklxV)'
+  created: 1593524438607
+  id: JRkM_-HBeSnR2cs-V9IlPLfk
+  modified: 1593524580317
+  note: ''
+- children:
+  - WLOgfEYCbEwEidSyiQcqOudm
+  - JRkM_-HBeSnR2cs-V9IlPLfk
+  - WMQ_x_UUuUqpoiTZR1IpsAvm
+  content: '!(2020-06-30) '
+  created: 1593524449478
+  id: twPYuOhnB_lxTWz5DxrgB32c
+  modified: 1593524454325
+  note: ''
+- content: '[RE: Vitalii]()'
+  created: 1593524589599
+  id: WMQ_x_UUuUqpoiTZR1IpsAvm
+  modified: 1593524610991
   note: ''
