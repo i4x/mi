@@ -13,6 +13,7 @@
   - bfGv9OeayoNlr9vFz4aJIZum
   - l4rLGiCfn5QLdLaLaspfKkS4
   - QzMEtwJReyVweVIq_jAZcF7i
+  - Q9Iq2sKQBH1A1BiHEiww86hJ
   - V74EAdXxj10KLbzZtIIS3il7
   - twPYuOhnB_lxTWz5DxrgB32c
   - jhOUp_oT9CVnUvSxQrBvtcNv
@@ -1086,8 +1087,32 @@
   id: l4rLGiCfn5QLdLaLaspfKkS4
   modified: 1593591587715
   note: ''
-- content: ''
+- children:
+  - vmIZvwi2Lh9e1UsP6_qNZTvW
+  - 1QMChSqWPFpg-1Jv-XXoyfBt
+  - pVWnhTRb2ap8-0qRIDbPKxfa
+  content: 'Tomui tikrinu:'
   created: 1593591587258
   id: QzMEtwJReyVweVIq_jAZcF7i
-  modified: 1593591592175
+  modified: 1593683198886
+  note: ''
+- content: ''
+  created: 1593683187244
+  id: Q9Iq2sKQBH1A1BiHEiww86hJ
+  modified: 1593683192768
+  note: ''
+- content: 1. Chat Styles.
+  created: 1593683196193
+  id: vmIZvwi2Lh9e1UsP6_qNZTvW
+  modified: 1593683210347
+  note: ''
+- content: 3. Scrape'o pradžia.
+  created: 1593683206397
+  id: pVWnhTRb2ap8-0qRIDbPKxfa
+  modified: 1593683210347
+  note: ''
+- content: 2. Vitalijaus uždėti stiliai ir darbai.
+  created: 1593683206397
+  id: 1QMChSqWPFpg-1Jv-XXoyfBt
+  modified: 1593683210347
   note: ''
