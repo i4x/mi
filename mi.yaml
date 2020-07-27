@@ -40,7 +40,6 @@
 - children:
   - j-zZSsnWe4vgg6MxYMWWCu2R
   - A1vsvEo3gHc4SVFXQ717gf_o
-  collapsed: true
   color: 4
   content: '**2. H**ealth **健康**：体と精神の状態'
   created: 1592038416048
@@ -249,7 +248,6 @@
 - children:
   - XhRJVdr9PyVVUYzaRBaL3fuK
   - GeEErT-lAzC88j1KJkx2aWHe
-  collapsed: true
   content: '**H1.** 感覚/痛み/不便'
   created: 1592045020027
   id: j-zZSsnWe4vgg6MxYMWWCu2R
@@ -257,7 +255,6 @@
   note: ''
 - children:
   - u54TDwNZCeFhIfNexZUyXb9Q
-  collapsed: true
   content: '**[前に、今はない]** 腎臓の時折の痛み'
   created: 1592045034233
   id: XhRJVdr9PyVVUYzaRBaL3fuK
@@ -271,7 +268,6 @@
   note: ''
 - children:
   - SvKnn4kVgXA5rL7zidqnx2Tq
-  collapsed: true
   content: '**[今]** 耳感染症'
   created: 1592045090377
   id: GeEErT-lAzC88j1KJkx2aWHe
@@ -300,7 +296,6 @@
 - children:
   - N9sYdBfWT0wBSMw4y_gFERIU
   - _3dVhImYsdWV9wqbVQsQ5DPs
-  collapsed: true
   content: '[半年前] 高血中コレステロール（High Blood Cholesterol (6.05) (DTL: 1.21, MTL: 4.15,
     TG: 1.51)）'
   created: 1592045278044
@@ -314,7 +309,6 @@
   note: ''
 - children:
   - FIoNUVUaJrhVPcJDgJ2HO8pP
-  collapsed: true
   content: '[いつも] 少し高い心拍数（90bpm）'
   created: 1592045392242
   id: mVASI92pWezdTo-hLzwKWsVs
@@ -667,6 +661,7 @@
   note: ''
 - children:
   - Y8Hq47qjG4U3PDF9yfbwnGwS
+  collapsed: true
   content: '**2019: 11月**'
   created: 1592102554834
   id: 4ve74Ivm8yHXbdKavJo1O97k
@@ -689,6 +684,7 @@
   - 8a-51On0HLdXY2HIfWbgQVA0
   - 19Mu3tIxNeRhE6-K4bpkHmwP
   - bZ-LO9iseHhxyEJ7_nQdfKoV
+  collapsed: true
   content: '**2020**: '
   created: 1592102703770
   id: 7G4rMSISsavL60t_k8R8nZtS
@@ -823,6 +819,7 @@
 
     https://wiki.mindey.com/shared/shots/0753fb8c6cc0f80166f85f1f2.png'
 - children:
+  - n7_bIaOxph9gNy2Ow2pA8BeH
   - Ck9bpDlMV_n-XQKiNjkFwB75
   content: '**Pasėliai (Cell Culture)**'
   created: 1592225097892
@@ -929,10 +926,10 @@
   id: jQAfFih8NkL5pvIoJWtd-EWR
   modified: 1592672498040
   note: ''
-- content: '**[In progress]**'
+- content: https://wiki.mindey.com/shared/shots/69e431c9137909df6d018e5e5.png
   created: 1592672469806
   id: Ck9bpDlMV_n-XQKiNjkFwB75
-  modified: 1592672480036
+  modified: 1595830621132
   note: ''
 - content: '[Visual examination OK]'
   created: 1592672476500
@@ -1122,4 +1119,41 @@
   created: 1593773599518
   id: QlXOI1I7K39lal1uVx2_uk-L
   modified: 1593773636321
+  note: ''
+- children:
+  - 8CE0tYNPSg8vgtCthjCG4RVh
+  content: Pseudomonas aeruginosa
+  created: 1595830619434
+  id: n7_bIaOxph9gNy2Ow2pA8BeH
+  modified: 1595830645559
+  note: ''
+- content: Ceftazidimas
+  created: 1595830641194
+  id: WYQlLgnvS27pZbC0uX01Bvue
+  modified: 1595830651111
+  note: ''
+- content: Ciprofloksacinas
+  created: 1595830648543
+  id: PzPLMY52HTMt01CU70_SUIA8
+  modified: 1595830663039
+  note: ''
+- children:
+  - WYQlLgnvS27pZbC0uX01Bvue
+  - PzPLMY52HTMt01CU70_SUIA8
+  - 7HzxEbjEIDLfjVXMLgk1abo6
+  - XlB-wWRuHRRijTxkVLdR2vXr
+  content: '**Antibiotikų rekomendacijos**'
+  created: 1595830650676
+  id: 8CE0tYNPSg8vgtCthjCG4RVh
+  modified: 1595830675025
+  note: ''
+- content: Piperacilinas/Tazobaktamas
+  created: 1595830661055
+  id: 7HzxEbjEIDLfjVXMLgk1abo6
+  modified: 1595830669531
+  note: ''
+- content: Tobramicinas
+  created: 1595830665269
+  id: XlB-wWRuHRRijTxkVLdR2vXr
+  modified: 1595830669531
   note: ''
