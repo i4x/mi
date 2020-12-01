@@ -40,6 +40,7 @@
 - children:
   - j-zZSsnWe4vgg6MxYMWWCu2R
   - A1vsvEo3gHc4SVFXQ717gf_o
+  collapsed: true
   color: 4
   content: '**2. H**ealth **健康**：体と精神の状態'
   created: 1592038416048
@@ -636,6 +637,7 @@
   - ozQfSgWbd2erRtJ4KJmZi8Wg
   - DJvoeyepsnueSl1PpLun5uxX
   - jWu2YtFf24kLWLbuaqdy0v2y
+  collapsed: true
   content: '**2018：3月11日**に、ビリニュスから重慶に来てから'
   created: 1592102234328
   id: N-0iFkxCL50ZS54HmBqe1gBI
@@ -839,6 +841,7 @@
 - children:
   - Yt4nSyonQxhW1EN40Tr_CGF6
   - Ve57nxg4cjwPOJCkJ8pMizL8
+  collapsed: true
   content: '**行動：**'
   created: 1592225241737
   id: XvEvW-fz3K3nYD6FJPqIOon7
